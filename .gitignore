@@ -1,3 +1,20 @@
+#Archivos ejecutables
 *.exe
 *.out
+
+#Archivos temporales
 *.tmp
+*.bak
+*.log
+
+#Archivos generados por Dev-C++
+*.layout
+*.depend
+
+# Carpetas de compilacion
+build/
+bin/
+obj/
+
+#Archivos temporales de editores
+.vscode/
