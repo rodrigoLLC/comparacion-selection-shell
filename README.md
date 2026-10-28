@@ -189,6 +189,7 @@ El programa principal genera los dos archivos CSV; la generación de figuras req
 ## 11. Video de demostración
 
 La demostración debe mostrar la compilación y ejecución del programa, la generación de los archivos CSV y una explicación de los resultados experimentales.
+https://www.youtube.com/watch?v=-Oz6OIrAIAg
 
 ## 12. Identificación del código experimental
 
