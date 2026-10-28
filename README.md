@@ -1,125 +1,197 @@
 # Comparación experimental de Selection Sort recursivo y Shell Sort iterativo
 
-# 1. Descripción del proyecto
+## 1. Descripción del proyecto
 
-El presente proyecto tiene como objetivo comparar el rendimiento de dos algoritmos de ordenación: Selection Sort recursivo y Shell Sort iterativo. Se evalúa su comportamiento utilizando diferentes tamaños y patrones de entrada registrando el tiempo de ejecución y la cantidad de operaciones realizadas.
+El presente proyecto tiene como objetivo comparar experimentalmente el rendimiento de dos algoritmos de ordenación: Selection Sort recursivo y Shell Sort iterativo. Se evalúa su comportamiento utilizando diferentes tamaños y patrones de entrada, registrando el tiempo de ejecución y la cantidad de operaciones realizadas.
 
-# 2. Datos del estudiante
+El experimento permite analizar las diferencias entre ambos algoritmos en términos de tiempo de ejecución, comparaciones, intercambios, desplazamientos y profundidad de recursión.
 
-- Estudiante: Rodrigo Jhoel Llano Capia
-- Universidad: Universidad Nacional Jorge Basadre Grohmann
-- Facultad: Facultad de Ingeniería
-- Escuela profesional: Ingeniería en Informática y Sistemas
-- Asignatura: Programación Avanzada
-- Semestre: 2026-II
+## 2. Datos del estudiante
 
-# 3. Algoritmos seleccionados
+- **Estudiante:** Rodrigo Jhoel Llano Capia
+- **Universidad:** Universidad Nacional Jorge Basadre Grohmann
+- **Facultad:** Facultad de Ingeniería
+- **Escuela profesional:** Ingeniería en Informática y Sistemas
+- **Asignatura:** Programación Avanzada
+- **Semestre académico:** 2026-II
 
-*Selection Sort recursivo
+## 3. Algoritmos seleccionados
 
-Este algoritmo busca el elemento menor de la parte no ordenada y lo coloca en su posición correspondiente. El procedimiento se repite mediante llamadas recursivas hasta ordenar el arreglo.
+### 3.1. Selection Sort recursivo
 
-- Complejidad temporal: O(n²).
-- Memoria auxiliar: O(n) por la pila de recursión en esta implementación.
-- Estabilidad: no es estable en su versión implementada.
+Selection Sort busca el elemento menor de la parte no ordenada del arreglo y lo intercambia con el elemento ubicado al inicio de dicha parte. El procedimiento continúa mediante llamadas recursivas hasta completar la ordenación.
 
-*Shell Sort iterativo
+- **Complejidad temporal:** O(n²).
+- **Memoria auxiliar:** O(n) en esta implementación, debido a la pila de recursión.
+- **Estabilidad:** no es estable en la implementación utilizada.
+- **Operaciones registradas:** comparaciones e intercambios.
+- **Profundidad de recursión:** se registra durante la ejecución.
 
-Este algoritmo ordena los elementos utilizando intervalos o saltos (*gaps*), que se reducen progresivamente hasta llegar a uno.
+### 3.2. Shell Sort iterativo
 
-- Complejidad temporal: depende de la secuencia de saltos utilizada.
-- Memoria auxiliar: O(1).
-- Estabilidad: no es estable en su versión implementada.
-- Secuencia de saltos: comienza en n/2 y se divide entre dos en cada iteración.
+Shell Sort ordena los elementos utilizando intervalos o saltos (*gaps*) que disminuyen progresivamente. En cada intervalo se aplica un procedimiento de ordenación por inserción hasta llegar a un salto de uno.
 
-# 4. Requisitos para compilar y ejecutar
+- **Complejidad temporal:** depende de la secuencia de saltos utilizada.
+- **Memoria auxiliar:** O(1) para el proceso de ordenación, sin contar el almacenamiento del arreglo.
+- **Estabilidad:** no es estable en la implementación utilizada.
+- **Secuencia de saltos:** comienza en n/2 y se divide entre dos en cada iteración.
+- **Operaciones registradas:** comparaciones y desplazamientos.
 
-- Sistema operativo: Windows.
-- Entorno de desarrollo: Dev-C++.
-- Compilador compatible con C++11 o superior.
-- Bibliotecas estándar utilizadas: `iostream`, `vector`, `cstdlib`, `chrono`, `fstream`, `string`, `algorithm` y `cmath`.
+## 4. Requisitos del entorno
 
-Para ejecutar el proyecto:
+- **Sistema operativo:** Windows 11 Pro, versión 26H2.
+- **Entorno de desarrollo:** Dev-C++.
+- **Compilador:** TDM-GCC 4.9.2 de 64 bits.
+- **Estándar del lenguaje:** C++11.
+- **Opción de compilación del estándar:** `-std=c++11`.
 
-1. Abrir el archivo `src/TrabajoFinal.cpp` en Dev-C++.
-2. Compilar el programa.
-3. Ejecutar el programa.
-4. Esperar a que terminen las pruebas.
-5. Revisar los archivos CSV generados.
+El código utiliza las siguientes bibliotecas estándar:
 
-# 5. Instrucciones para reproducir los experimentos
+- `iostream`
+- `vector`
+- `cstdlib`
+- `chrono`
+- `fstream`
+- `string`
+- `algorithm`
+- `cmath`
 
-El programa ejecuta pruebas automatizadas y registra los resultados en archivos CSV.
+## 5. Compilación y ejecución
 
-1. Utilizar el mismo código fuente y el mismo entorno de ejecución.
-2. Ejecutar el programa sin modificar los parámetros experimentales.
-3. Esperar a que terminen las repeticiones.
-4. Revisar los archivos 'resultados.csv' y 'resumen.csv'.
-5. Comprobar que los algoritmos ordenen correctamente los arreglos.
+1. Clonar o descargar el repositorio.
+2. Abrir el archivo `src/TrabajoFinal.cpp` en Dev-C++.
+3. Configurar el compilador para utilizar el estándar C++11.
+4. Compilar el programa.
+5. Ejecutar el programa y esperar a que finalicen las pruebas experimentales.
+6. Revisar los archivos `resultados.csv` y `resumen.csv` generados en el directorio de trabajo.
 
-El tiempo medido corresponde a la ejecución del algoritmo sin incluir la generación ni la copia inicial del arreglo.
+El programa genera automáticamente ambos archivos CSV. Si ya existen, se sobrescriben al iniciar una nueva ejecución.
 
-# 6. Tamaños, patrones y semillas
+## 6. Diseño experimental
 
-Se utilizan los siguientes tamaños de entrada:
+### 6.1. Tamaños de entrada
+
+Se utilizan los siguientes tamaños:
 
 - 1 000 elementos.
 - 10 000 elementos.
 - 100 000 elementos.
 
-Los patrones evaluados son:
+### 6.2. Patrones de entrada
 
-- Aleatorio: números generados mediante 'rand() % 100000'.
-- Ascendente: elementos organizados de menor a mayor.
-- Descendente: elementos organizados de mayor a menor.
+Se evalúan tres patrones:
 
-Se realizan 30 repeticiones por cada condición experimental.
+- **Aleatorio:** números enteros generados mediante `rand() % 100000`.
+- **Ascendente:** elementos organizados de menor a mayor.
+- **Descendente:** elementos organizados de mayor a menor.
 
-La semilla base es 12345. Para las repeticiones se calcula una semilla a partir del tamaño, el patrón y el número de repetición.
+### 6.3. Número de repeticiones
 
-Selection Sort recursivo se ejecuta únicamente con tamaños de 1 000 y 10 000 elementos, para 100 000 elementos el experimento considera solamente Shell Sort debido a las limitaciones prácticas de tiempo y profundidad de recursión.
+Se realizan 30 repeticiones para cada combinación de tamaño y patrón.
 
-# 7. Archivos de resultados
+### 6.4. Generación de semillas
 
-# resultados.csv
+La semilla base utilizada es `12345`. Para cada repetición se calcula una semilla mediante la siguiente expresión:
 
-Contiene los resultados individuales de cada repetición, incluyendo:
+`semilla = semillaBase + t * 100000 + p * 1000 + rep`
 
-- Algoritmo.
-- Tamaño del arreglo.
-- Patrón de entrada.
-- Número de repetición.
-- Tiempo de ejecución en milisegundos.
-- Comparaciones.
-- Intercambios.
-- Desplazamientos.
-- Profundidad de recursión.
-- Semilla.
-- Hash del commit del código experimental.
-- Indicador de ordenación correcta.
+Donde:
 
-# resumen.csv
+- `t` representa el índice del tamaño de entrada.
+- `p` representa el índice del patrón.
+- `rep` representa el número de repetición, desde 1 hasta 30.
 
-Contiene las estadísticas calculadas a partir de los tiempos registrados:
+La semilla utilizada se registra en `resultados.csv`. Los patrones ascendente y descendente se construyen directamente; la semilla solo afecta a la generación de arreglos aleatorios.
 
-- Media.
-- Mediana.
-- Desviación estándar.
-- Tiempo mínimo.
-- Tiempo máximo.
+### 6.5. Condiciones de ejecución
 
-# 8. Principales resultados y conclusiones
+Para cada condición experimental se genera un arreglo original y se utiliza una copia independiente para cada algoritmo. De esta manera, ambos algoritmos procesan la misma entrada en cada repetición.
 
-Los resultados experimentales se analizarán comparando los tiempos de ejecución y las operaciones realizadas por ambos algoritmos en los tamaños y patrones evaluados.
+El tiempo se mide mediante `std::chrono::steady_clock` y se expresa en milisegundos. La medición incluye la ejecución del algoritmo, pero excluye la generación del arreglo y su copia inicial.
 
-Se espera que Selection Sort recursivo presente un crecimiento cuadrático en el número de comparaciones, Shell Sort puede mostrar un mejor rendimiento práctico para arreglos grandes aunque su comportamiento depende de la secuencia de saltos.
+Selection Sort recursivo se ejecuta únicamente para tamaños de 1 000 y 10 000 elementos. Para 100 000 elementos se ejecuta solamente Shell Sort, debido al elevado costo temporal y a la profundidad de recursión de Selection Sort.
 
-Las conclusiones definitivas se completarán utilizando los valores reales obtenidos en los archivos CSV sin asumir resultados que todavía no hayan sido analizados.
+## 7. Archivos de resultados
 
-# 9. Video de demostración
+### 7.1. `resultados.csv`
 
-- Enlace de YouTube: 
+Contiene los registros individuales de cada repetición experimental.
 
-# 10. Identificación del commit
+Las columnas son:
 
-- Hash del commit del código experimental: `8e34ad8`
+- `algoritmo`: algoritmo ejecutado.
+- `n`: tamaño del arreglo.
+- `patron`: patrón de entrada.
+- `repeticion`: número de repetición.
+- `tiempo_ms`: tiempo de ejecución en milisegundos.
+- `comparaciones`: número de comparaciones contabilizadas.
+- `intercambios`: número de intercambios registrados.
+- `desplazamientos`: número de desplazamientos registrados.
+- `profundidad_recursion`: profundidad máxima registrada para la ejecución recursiva.
+- `semilla`: semilla asociada a la repetición.
+- `commit_hash`: identificador del commit consignado en el código experimental.
+- `correcto`: indica si el arreglo quedó ordenado correctamente (`SI` o `NO`).
+
+### 7.2. `resumen.csv`
+
+Contiene estadísticas descriptivas de los tiempos de ejecución para cada algoritmo, tamaño y patrón.
+
+Las columnas son:
+
+- `algoritmo`
+- `n`
+- `patron`
+- `media_ms`
+- `mediana_ms`
+- `desviacion_std_ms`
+- `minimo_ms`
+- `maximo_ms`
+
+La desviación estándar se calcula utilizando el denominador n − 1, correspondiente a la desviación estándar muestral.
+
+## 8. Resultados y análisis
+
+El análisis experimental compara los tiempos de ejecución y las operaciones registradas para los distintos tamaños y patrones de entrada.
+
+Se consideran especialmente las siguientes observaciones:
+
+- El crecimiento del número de comparaciones de Selection Sort recursivo conforme aumenta el tamaño del arreglo.
+- Las diferencias de tiempo de ejecución entre Selection Sort recursivo y Shell Sort iterativo.
+- La influencia de los patrones aleatorio, ascendente y descendente.
+- La cantidad de desplazamientos realizados por Shell Sort.
+- La profundidad de recursión alcanzada por Selection Sort.
+- La corrección de los arreglos ordenados al finalizar cada ejecución.
+
+Para el análisis se utilizan los datos individuales de `resultados.csv` y las estadísticas descriptivas de `resumen.csv`. Las conclusiones se basan en los resultados medidos bajo las condiciones experimentales descritas.
+
+## 9. Reproducibilidad
+
+Para repetir el experimento:
+
+1. Utilizar el código fuente del repositorio y el entorno de compilación documentado.
+2. Configurar el estándar C++11.
+3. Ejecutar el programa sin modificar los tamaños, patrones, número de repeticiones ni fórmula de semillas.
+4. Esperar a que finalicen todas las pruebas.
+5. Examinar los archivos `resultados.csv` y `resumen.csv`.
+6. Comprobar que la columna `correcto` indique `SI` en todos los registros.
+7. Comparar los resultados obtenidos con los registros de la ejecución anterior.
+
+Las mediciones de tiempo pueden variar entre ejecuciones debido a las condiciones del sistema, los procesos en segundo plano y otros factores del entorno.
+
+La función `rand()` depende de la implementación de la biblioteca estándar. Por ello, para reproducir exactamente los arreglos aleatorios, se recomienda utilizar el mismo compilador y entorno de ejecución.
+
+## 10. Figuras y tablas
+
+Las tablas estadísticas pueden elaborarse a partir de `resumen.csv`, mientras que las gráficas de comparación pueden construirse utilizando los datos de `resultados.csv` y `resumen.csv`.
+
+El programa principal genera los dos archivos CSV; la generación de figuras requiere un procedimiento adicional de procesamiento y visualización de los datos.
+
+## 11. Video de demostración
+
+La demostración debe mostrar la compilación y ejecución del programa, la generación de los archivos CSV y una explicación de los resultados experimentales.
+
+## 12. Identificación del código experimental
+
+El programa registra un identificador de commit en la columna `commit_hash` de `resultados.csv`. Para que este identificador permita rastrear la versión evaluada, debe corresponder al commit real del código fuente utilizado para producir los resultados.
+
+**Repositorio:** https://github.com/rodrigoLLC/comparacion-selection-shell.git
