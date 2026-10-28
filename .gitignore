@@ -11,7 +11,7 @@
 *.layout
 *.depend
 
-# Carpetas de compilacion
+#Carpetas de compilacion
 build/
 bin/
 obj/
