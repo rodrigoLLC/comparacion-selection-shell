@@ -194,4 +194,6 @@ La demostración debe mostrar la compilación y ejecución del programa, la gene
 
 El programa registra un identificador de commit en la columna `commit_hash` de `resultados.csv`. Para que este identificador permita rastrear la versión evaluada, debe corresponder al commit real del código fuente utilizado para producir los resultados.
 
+Commit del código fuente: `09fa4b3`
+
 **Repositorio:** https://github.com/rodrigoLLC/comparacion-selection-shell.git
