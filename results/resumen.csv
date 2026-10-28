@@ -1,0 +1,16 @@
+algoritmo,n,patron,media_ms,mediana_ms,desviacion_std_ms,minimo_ms,maximo_ms
+Shell Sort,1000,aleatorio,0.246,0.24285,0.0159378,0.2306,0.3206
+Selection Sort recursivo,1000,aleatorio,2.90976,2.8188,0.428316,2.7853,5.1685
+Shell Sort,1000,ascendente,0.0382167,0.03795,0.00167889,0.0372,0.0468
+Selection Sort recursivo,1000,ascendente,2.75064,2.743,0.0470241,2.677,2.8907
+Shell Sort,1000,descendente,0.108277,0.10805,0.000982496,0.1067,0.1117
+Selection Sort recursivo,1000,descendente,2.80033,2.7381,0.235974,2.6779,3.9659
+Shell Sort,10000,aleatorio,4.09423,4.03675,0.586084,3.6917,7.034
+Selection Sort recursivo,10000,aleatorio,356.686,391.426,61.3225,265.118,460.977
+Shell Sort,10000,ascendente,1.02401,1.0194,0.0317711,0.9837,1.1086
+Selection Sort recursivo,10000,ascendente,395.986,393.498,7.41181,390.013,413.969
+Shell Sort,10000,descendente,1.98255,1.9669,0.0821216,1.9105,2.3757
+Selection Sort recursivo,10000,descendente,402.019,400.563,5.40676,396.085,417.624
+Shell Sort,100000,aleatorio,62.693,62.2746,3.07123,58.3988,73.4512
+Shell Sort,100000,ascendente,13.7173,13.1063,1.6486,12.6196,19.9978
+Shell Sort,100000,descendente,25.4908,25.2206,0.91171,24.4619,28.5997
