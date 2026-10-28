@@ -1,451 +1,451 @@
 algoritmo,n,patron,repeticion,tiempo_ms,comparaciones,intercambios,desplazamientos,profundidad_recursion,semilla,commit_hash,correcto
-Shell Sort,1000,aleatorio,1,0.2398,15027,0,11568,0,12346,8e34ad8,SI
-Selection Sort recursivo,1000,aleatorio,1,2.838,499500,997,0,999,12346,8e34ad8,SI
-Shell Sort,1000,aleatorio,2,0.2413,15032,0,11614,0,12347,8e34ad8,SI
-Selection Sort recursivo,1000,aleatorio,2,2.7981,499500,993,0,999,12347,8e34ad8,SI
-Shell Sort,1000,aleatorio,3,0.2354,14706,0,11199,0,12348,8e34ad8,SI
-Selection Sort recursivo,1000,aleatorio,3,2.7853,499500,989,0,999,12348,8e34ad8,SI
-Shell Sort,1000,aleatorio,4,0.248,15906,0,12544,0,12349,8e34ad8,SI
-Selection Sort recursivo,1000,aleatorio,4,2.7864,499500,993,0,999,12349,8e34ad8,SI
-Shell Sort,1000,aleatorio,5,0.2356,14711,0,11218,0,12350,8e34ad8,SI
-Selection Sort recursivo,1000,aleatorio,5,2.8324,499500,993,0,999,12350,8e34ad8,SI
-Shell Sort,1000,aleatorio,6,0.238,14896,0,11326,0,12351,8e34ad8,SI
-Selection Sort recursivo,1000,aleatorio,6,2.8166,499500,994,0,999,12351,8e34ad8,SI
-Shell Sort,1000,aleatorio,7,0.2443,15698,0,12312,0,12352,8e34ad8,SI
-Selection Sort recursivo,1000,aleatorio,7,2.815,499500,991,0,999,12352,8e34ad8,SI
-Shell Sort,1000,aleatorio,8,0.2394,14994,0,11477,0,12353,8e34ad8,SI
-Selection Sort recursivo,1000,aleatorio,8,2.8404,499500,994,0,999,12353,8e34ad8,SI
-Shell Sort,1000,aleatorio,9,0.2346,14658,0,11099,0,12354,8e34ad8,SI
-Selection Sort recursivo,1000,aleatorio,9,2.9029,499500,989,0,999,12354,8e34ad8,SI
-Shell Sort,1000,aleatorio,10,0.245,15114,0,11612,0,12355,8e34ad8,SI
-Selection Sort recursivo,1000,aleatorio,10,2.9219,499500,995,0,999,12355,8e34ad8,SI
-Shell Sort,1000,aleatorio,11,0.2323,14570,0,10950,0,12356,8e34ad8,SI
-Selection Sort recursivo,1000,aleatorio,11,2.8123,499500,992,0,999,12356,8e34ad8,SI
-Shell Sort,1000,aleatorio,12,0.2408,15232,0,11657,0,12357,8e34ad8,SI
-Selection Sort recursivo,1000,aleatorio,12,2.8822,499500,985,0,999,12357,8e34ad8,SI
-Shell Sort,1000,aleatorio,13,0.2387,14853,0,11364,0,12358,8e34ad8,SI
-Selection Sort recursivo,1000,aleatorio,13,2.8726,499500,990,0,999,12358,8e34ad8,SI
-Shell Sort,1000,aleatorio,14,0.2306,14320,0,10788,0,12359,8e34ad8,SI
-Selection Sort recursivo,1000,aleatorio,14,2.806,499500,991,0,999,12359,8e34ad8,SI
-Shell Sort,1000,aleatorio,15,0.2452,15765,0,12219,0,12360,8e34ad8,SI
-Selection Sort recursivo,1000,aleatorio,15,2.8306,499500,995,0,999,12360,8e34ad8,SI
-Shell Sort,1000,aleatorio,16,0.2544,16355,0,12993,0,12361,8e34ad8,SI
-Selection Sort recursivo,1000,aleatorio,16,2.7864,499500,990,0,999,12361,8e34ad8,SI
-Shell Sort,1000,aleatorio,17,0.2555,14832,0,11196,0,12362,8e34ad8,SI
-Selection Sort recursivo,1000,aleatorio,17,2.805,499500,995,0,999,12362,8e34ad8,SI
-Shell Sort,1000,aleatorio,18,0.2441,15347,0,11958,0,12363,8e34ad8,SI
-Selection Sort recursivo,1000,aleatorio,18,2.8196,499500,994,0,999,12363,8e34ad8,SI
-Shell Sort,1000,aleatorio,19,0.2477,15945,0,12461,0,12364,8e34ad8,SI
-Selection Sort recursivo,1000,aleatorio,19,2.8028,499500,994,0,999,12364,8e34ad8,SI
-Shell Sort,1000,aleatorio,20,0.2416,15296,0,11887,0,12365,8e34ad8,SI
-Selection Sort recursivo,1000,aleatorio,20,5.1685,499500,996,0,999,12365,8e34ad8,SI
-Shell Sort,1000,aleatorio,21,0.2371,14993,0,11492,0,12366,8e34ad8,SI
-Selection Sort recursivo,1000,aleatorio,21,2.8704,499500,996,0,999,12366,8e34ad8,SI
-Shell Sort,1000,aleatorio,22,0.2506,16343,0,13032,0,12367,8e34ad8,SI
-Selection Sort recursivo,1000,aleatorio,22,2.8637,499500,986,0,999,12367,8e34ad8,SI
-Shell Sort,1000,aleatorio,23,0.2413,14585,0,10960,0,12368,8e34ad8,SI
-Selection Sort recursivo,1000,aleatorio,23,2.7888,499500,992,0,999,12368,8e34ad8,SI
-Shell Sort,1000,aleatorio,24,0.2393,15068,0,11547,0,12369,8e34ad8,SI
-Selection Sort recursivo,1000,aleatorio,24,2.818,499500,988,0,999,12369,8e34ad8,SI
-Shell Sort,1000,aleatorio,25,0.2468,15319,0,11795,0,12370,8e34ad8,SI
-Selection Sort recursivo,1000,aleatorio,25,2.8034,499500,993,0,999,12370,8e34ad8,SI
-Shell Sort,1000,aleatorio,26,0.2502,16122,0,12758,0,12371,8e34ad8,SI
-Selection Sort recursivo,1000,aleatorio,26,2.7947,499500,995,0,999,12371,8e34ad8,SI
-Shell Sort,1000,aleatorio,27,0.2478,15749,0,12350,0,12372,8e34ad8,SI
-Selection Sort recursivo,1000,aleatorio,27,2.8879,499500,989,0,999,12372,8e34ad8,SI
-Shell Sort,1000,aleatorio,28,0.2657,15755,0,12303,0,12373,8e34ad8,SI
-Selection Sort recursivo,1000,aleatorio,28,2.8915,499500,989,0,999,12373,8e34ad8,SI
-Shell Sort,1000,aleatorio,29,0.3206,14432,0,10872,0,12374,8e34ad8,SI
-Selection Sort recursivo,1000,aleatorio,29,2.8436,499500,993,0,999,12374,8e34ad8,SI
-Shell Sort,1000,aleatorio,30,0.2483,15309,0,11799,0,12375,8e34ad8,SI
-Selection Sort recursivo,1000,aleatorio,30,2.8077,499500,995,0,999,12375,8e34ad8,SI
-Shell Sort,1000,ascendente,1,0.0383,8006,0,0,0,13346,8e34ad8,SI
-Selection Sort recursivo,1000,ascendente,1,2.7045,499500,0,0,999,13346,8e34ad8,SI
-Shell Sort,1000,ascendente,2,0.0372,8006,0,0,0,13347,8e34ad8,SI
-Selection Sort recursivo,1000,ascendente,2,2.7624,499500,0,0,999,13347,8e34ad8,SI
-Shell Sort,1000,ascendente,3,0.0377,8006,0,0,0,13348,8e34ad8,SI
-Selection Sort recursivo,1000,ascendente,3,2.8296,499500,0,0,999,13348,8e34ad8,SI
-Shell Sort,1000,ascendente,4,0.0383,8006,0,0,0,13349,8e34ad8,SI
-Selection Sort recursivo,1000,ascendente,4,2.6834,499500,0,0,999,13349,8e34ad8,SI
-Shell Sort,1000,ascendente,5,0.0378,8006,0,0,0,13350,8e34ad8,SI
-Selection Sort recursivo,1000,ascendente,5,2.746,499500,0,0,999,13350,8e34ad8,SI
-Shell Sort,1000,ascendente,6,0.0381,8006,0,0,0,13351,8e34ad8,SI
-Selection Sort recursivo,1000,ascendente,6,2.7727,499500,0,0,999,13351,8e34ad8,SI
-Shell Sort,1000,ascendente,7,0.0373,8006,0,0,0,13352,8e34ad8,SI
-Selection Sort recursivo,1000,ascendente,7,2.8907,499500,0,0,999,13352,8e34ad8,SI
-Shell Sort,1000,ascendente,8,0.0379,8006,0,0,0,13353,8e34ad8,SI
-Selection Sort recursivo,1000,ascendente,8,2.7434,499500,0,0,999,13353,8e34ad8,SI
-Shell Sort,1000,ascendente,9,0.0468,8006,0,0,0,13354,8e34ad8,SI
-Selection Sort recursivo,1000,ascendente,9,2.7379,499500,0,0,999,13354,8e34ad8,SI
-Shell Sort,1000,ascendente,10,0.0381,8006,0,0,0,13355,8e34ad8,SI
-Selection Sort recursivo,1000,ascendente,10,2.775,499500,0,0,999,13355,8e34ad8,SI
-Shell Sort,1000,ascendente,11,0.0383,8006,0,0,0,13356,8e34ad8,SI
-Selection Sort recursivo,1000,ascendente,11,2.7362,499500,0,0,999,13356,8e34ad8,SI
-Shell Sort,1000,ascendente,12,0.0381,8006,0,0,0,13357,8e34ad8,SI
-Selection Sort recursivo,1000,ascendente,12,2.7377,499500,0,0,999,13357,8e34ad8,SI
-Shell Sort,1000,ascendente,13,0.0382,8006,0,0,0,13358,8e34ad8,SI
-Selection Sort recursivo,1000,ascendente,13,2.7261,499500,0,0,999,13358,8e34ad8,SI
-Shell Sort,1000,ascendente,14,0.0378,8006,0,0,0,13359,8e34ad8,SI
-Selection Sort recursivo,1000,ascendente,14,2.7064,499500,0,0,999,13359,8e34ad8,SI
-Shell Sort,1000,ascendente,15,0.038,8006,0,0,0,13360,8e34ad8,SI
-Selection Sort recursivo,1000,ascendente,15,2.677,499500,0,0,999,13360,8e34ad8,SI
-Shell Sort,1000,ascendente,16,0.0376,8006,0,0,0,13361,8e34ad8,SI
-Selection Sort recursivo,1000,ascendente,16,2.741,499500,0,0,999,13361,8e34ad8,SI
-Shell Sort,1000,ascendente,17,0.0376,8006,0,0,0,13362,8e34ad8,SI
-Selection Sort recursivo,1000,ascendente,17,2.7426,499500,0,0,999,13362,8e34ad8,SI
-Shell Sort,1000,ascendente,18,0.0382,8006,0,0,0,13363,8e34ad8,SI
-Selection Sort recursivo,1000,ascendente,18,2.7536,499500,0,0,999,13363,8e34ad8,SI
-Shell Sort,1000,ascendente,19,0.0378,8006,0,0,0,13364,8e34ad8,SI
-Selection Sort recursivo,1000,ascendente,19,2.7708,499500,0,0,999,13364,8e34ad8,SI
-Shell Sort,1000,ascendente,20,0.0381,8006,0,0,0,13365,8e34ad8,SI
-Selection Sort recursivo,1000,ascendente,20,2.7459,499500,0,0,999,13365,8e34ad8,SI
-Shell Sort,1000,ascendente,21,0.0377,8006,0,0,0,13366,8e34ad8,SI
-Selection Sort recursivo,1000,ascendente,21,2.7263,499500,0,0,999,13366,8e34ad8,SI
-Shell Sort,1000,ascendente,22,0.0374,8006,0,0,0,13367,8e34ad8,SI
-Selection Sort recursivo,1000,ascendente,22,2.7749,499500,0,0,999,13367,8e34ad8,SI
-Shell Sort,1000,ascendente,23,0.0382,8006,0,0,0,13368,8e34ad8,SI
-Selection Sort recursivo,1000,ascendente,23,2.6984,499500,0,0,999,13368,8e34ad8,SI
-Shell Sort,1000,ascendente,24,0.0373,8006,0,0,0,13369,8e34ad8,SI
-Selection Sort recursivo,1000,ascendente,24,2.8361,499500,0,0,999,13369,8e34ad8,SI
-Shell Sort,1000,ascendente,25,0.0379,8006,0,0,0,13370,8e34ad8,SI
-Selection Sort recursivo,1000,ascendente,25,2.8125,499500,0,0,999,13370,8e34ad8,SI
-Shell Sort,1000,ascendente,26,0.0395,8006,0,0,0,13371,8e34ad8,SI
-Selection Sort recursivo,1000,ascendente,26,2.7297,499500,0,0,999,13371,8e34ad8,SI
-Shell Sort,1000,ascendente,27,0.0381,8006,0,0,0,13372,8e34ad8,SI
-Selection Sort recursivo,1000,ascendente,27,2.7808,499500,0,0,999,13372,8e34ad8,SI
-Shell Sort,1000,ascendente,28,0.0378,8006,0,0,0,13373,8e34ad8,SI
-Selection Sort recursivo,1000,ascendente,28,2.7698,499500,0,0,999,13373,8e34ad8,SI
-Shell Sort,1000,ascendente,29,0.038,8006,0,0,0,13374,8e34ad8,SI
-Selection Sort recursivo,1000,ascendente,29,2.6971,499500,0,0,999,13374,8e34ad8,SI
-Shell Sort,1000,ascendente,30,0.0374,8006,0,0,0,13375,8e34ad8,SI
-Selection Sort recursivo,1000,ascendente,30,2.7107,499500,0,0,999,13375,8e34ad8,SI
-Shell Sort,1000,descendente,1,0.1094,11716,0,9072,0,14346,8e34ad8,SI
-Selection Sort recursivo,1000,descendente,1,2.6912,499500,500,0,999,14346,8e34ad8,SI
-Shell Sort,1000,descendente,2,0.1067,11716,0,9072,0,14347,8e34ad8,SI
-Selection Sort recursivo,1000,descendente,2,2.7836,499500,500,0,999,14347,8e34ad8,SI
-Shell Sort,1000,descendente,3,0.107,11716,0,9072,0,14348,8e34ad8,SI
-Selection Sort recursivo,1000,descendente,3,2.8328,499500,500,0,999,14348,8e34ad8,SI
-Shell Sort,1000,descendente,4,0.108,11716,0,9072,0,14349,8e34ad8,SI
-Selection Sort recursivo,1000,descendente,4,2.7675,499500,500,0,999,14349,8e34ad8,SI
-Shell Sort,1000,descendente,5,0.1094,11716,0,9072,0,14350,8e34ad8,SI
-Selection Sort recursivo,1000,descendente,5,2.8191,499500,500,0,999,14350,8e34ad8,SI
-Shell Sort,1000,descendente,6,0.1089,11716,0,9072,0,14351,8e34ad8,SI
-Selection Sort recursivo,1000,descendente,6,2.7348,499500,500,0,999,14351,8e34ad8,SI
-Shell Sort,1000,descendente,7,0.107,11716,0,9072,0,14352,8e34ad8,SI
-Selection Sort recursivo,1000,descendente,7,2.6828,499500,500,0,999,14352,8e34ad8,SI
-Shell Sort,1000,descendente,8,0.1089,11716,0,9072,0,14353,8e34ad8,SI
-Selection Sort recursivo,1000,descendente,8,3.0805,499500,500,0,999,14353,8e34ad8,SI
-Shell Sort,1000,descendente,9,0.1089,11716,0,9072,0,14354,8e34ad8,SI
-Selection Sort recursivo,1000,descendente,9,2.7405,499500,500,0,999,14354,8e34ad8,SI
-Shell Sort,1000,descendente,10,0.1076,11716,0,9072,0,14355,8e34ad8,SI
-Selection Sort recursivo,1000,descendente,10,2.9038,499500,500,0,999,14355,8e34ad8,SI
-Shell Sort,1000,descendente,11,0.108,11716,0,9072,0,14356,8e34ad8,SI
-Selection Sort recursivo,1000,descendente,11,2.7305,499500,500,0,999,14356,8e34ad8,SI
-Shell Sort,1000,descendente,12,0.109,11716,0,9072,0,14357,8e34ad8,SI
-Selection Sort recursivo,1000,descendente,12,2.7592,499500,500,0,999,14357,8e34ad8,SI
-Shell Sort,1000,descendente,13,0.1081,11716,0,9072,0,14358,8e34ad8,SI
-Selection Sort recursivo,1000,descendente,13,2.6928,499500,500,0,999,14358,8e34ad8,SI
-Shell Sort,1000,descendente,14,0.1088,11716,0,9072,0,14359,8e34ad8,SI
-Selection Sort recursivo,1000,descendente,14,2.6912,499500,500,0,999,14359,8e34ad8,SI
-Shell Sort,1000,descendente,15,0.1079,11716,0,9072,0,14360,8e34ad8,SI
-Selection Sort recursivo,1000,descendente,15,2.7611,499500,500,0,999,14360,8e34ad8,SI
-Shell Sort,1000,descendente,16,0.108,11716,0,9072,0,14361,8e34ad8,SI
-Selection Sort recursivo,1000,descendente,16,3.9659,499500,500,0,999,14361,8e34ad8,SI
-Shell Sort,1000,descendente,17,0.1074,11716,0,9072,0,14362,8e34ad8,SI
-Selection Sort recursivo,1000,descendente,17,2.9067,499500,500,0,999,14362,8e34ad8,SI
-Shell Sort,1000,descendente,18,0.1089,11716,0,9072,0,14363,8e34ad8,SI
-Selection Sort recursivo,1000,descendente,18,2.7101,499500,500,0,999,14363,8e34ad8,SI
-Shell Sort,1000,descendente,19,0.1085,11716,0,9072,0,14364,8e34ad8,SI
-Selection Sort recursivo,1000,descendente,19,2.7357,499500,500,0,999,14364,8e34ad8,SI
-Shell Sort,1000,descendente,20,0.1075,11716,0,9072,0,14365,8e34ad8,SI
-Selection Sort recursivo,1000,descendente,20,2.7258,499500,500,0,999,14365,8e34ad8,SI
-Shell Sort,1000,descendente,21,0.1079,11716,0,9072,0,14366,8e34ad8,SI
-Selection Sort recursivo,1000,descendente,21,2.686,499500,500,0,999,14366,8e34ad8,SI
-Shell Sort,1000,descendente,22,0.1081,11716,0,9072,0,14367,8e34ad8,SI
-Selection Sort recursivo,1000,descendente,22,2.682,499500,500,0,999,14367,8e34ad8,SI
-Shell Sort,1000,descendente,23,0.1086,11716,0,9072,0,14368,8e34ad8,SI
-Selection Sort recursivo,1000,descendente,23,2.8029,499500,500,0,999,14368,8e34ad8,SI
-Shell Sort,1000,descendente,24,0.1078,11716,0,9072,0,14369,8e34ad8,SI
-Selection Sort recursivo,1000,descendente,24,2.764,499500,500,0,999,14369,8e34ad8,SI
-Shell Sort,1000,descendente,25,0.1082,11716,0,9072,0,14370,8e34ad8,SI
-Selection Sort recursivo,1000,descendente,25,2.7219,499500,500,0,999,14370,8e34ad8,SI
-Shell Sort,1000,descendente,26,0.1078,11716,0,9072,0,14371,8e34ad8,SI
-Selection Sort recursivo,1000,descendente,26,2.6934,499500,500,0,999,14371,8e34ad8,SI
-Shell Sort,1000,descendente,27,0.1117,11716,0,9072,0,14372,8e34ad8,SI
-Selection Sort recursivo,1000,descendente,27,2.7208,499500,500,0,999,14372,8e34ad8,SI
-Shell Sort,1000,descendente,28,0.1074,11716,0,9072,0,14373,8e34ad8,SI
-Selection Sort recursivo,1000,descendente,28,2.6779,499500,500,0,999,14373,8e34ad8,SI
-Shell Sort,1000,descendente,29,0.1075,11716,0,9072,0,14374,8e34ad8,SI
-Selection Sort recursivo,1000,descendente,29,2.7491,499500,500,0,999,14374,8e34ad8,SI
-Shell Sort,1000,descendente,30,0.1094,11716,0,9072,0,14375,8e34ad8,SI
-Selection Sort recursivo,1000,descendente,30,2.7962,499500,500,0,999,14375,8e34ad8,SI
-Shell Sort,10000,aleatorio,1,3.793,261452,0,204369,0,112346,8e34ad8,SI
-Selection Sort recursivo,10000,aleatorio,1,269.031,49995000,9989,0,9999,112346,8e34ad8,SI
-Shell Sort,10000,aleatorio,2,3.6917,257640,0,200356,0,112347,8e34ad8,SI
-Selection Sort recursivo,10000,aleatorio,2,265.118,49995000,9988,0,9999,112347,8e34ad8,SI
-Shell Sort,10000,aleatorio,3,3.7366,268816,0,211848,0,112348,8e34ad8,SI
-Selection Sort recursivo,10000,aleatorio,3,270.918,49995000,9995,0,9999,112348,8e34ad8,SI
-Shell Sort,10000,aleatorio,4,3.727,263245,0,206659,0,112349,8e34ad8,SI
-Selection Sort recursivo,10000,aleatorio,4,269.047,49995000,9988,0,9999,112349,8e34ad8,SI
-Shell Sort,10000,aleatorio,5,3.7618,268316,0,211355,0,112350,8e34ad8,SI
-Selection Sort recursivo,10000,aleatorio,5,268.974,49995000,9989,0,9999,112350,8e34ad8,SI
-Shell Sort,10000,aleatorio,6,3.7209,266054,0,209214,0,112351,8e34ad8,SI
-Selection Sort recursivo,10000,aleatorio,6,265.812,49995000,9994,0,9999,112351,8e34ad8,SI
-Shell Sort,10000,aleatorio,7,3.7411,267418,0,210724,0,112352,8e34ad8,SI
-Selection Sort recursivo,10000,aleatorio,7,271.502,49995000,9988,0,9999,112352,8e34ad8,SI
-Shell Sort,10000,aleatorio,8,4.1872,262319,0,205420,0,112353,8e34ad8,SI
-Selection Sort recursivo,10000,aleatorio,8,276.88,49995000,9990,0,9999,112353,8e34ad8,SI
-Shell Sort,10000,aleatorio,9,3.8106,266811,0,209981,0,112354,8e34ad8,SI
-Selection Sort recursivo,10000,aleatorio,9,265.801,49995000,9988,0,9999,112354,8e34ad8,SI
-Shell Sort,10000,aleatorio,10,3.7111,258913,0,201721,0,112355,8e34ad8,SI
-Selection Sort recursivo,10000,aleatorio,10,318.809,49995000,9987,0,9999,112355,8e34ad8,SI
-Shell Sort,10000,aleatorio,11,3.9277,256361,0,199004,0,112356,8e34ad8,SI
-Selection Sort recursivo,10000,aleatorio,11,396.231,49995000,9992,0,9999,112356,8e34ad8,SI
-Shell Sort,10000,aleatorio,12,4.1818,258862,0,201670,0,112357,8e34ad8,SI
-Selection Sort recursivo,10000,aleatorio,12,391.45,49995000,9990,0,9999,112357,8e34ad8,SI
-Shell Sort,10000,aleatorio,13,4.0237,260968,0,204114,0,112358,8e34ad8,SI
-Selection Sort recursivo,10000,aleatorio,13,391.359,49995000,9992,0,9999,112358,8e34ad8,SI
-Shell Sort,10000,aleatorio,14,3.9997,262012,0,204896,0,112359,8e34ad8,SI
-Selection Sort recursivo,10000,aleatorio,14,396.544,49995000,9991,0,9999,112359,8e34ad8,SI
-Shell Sort,10000,aleatorio,15,4.1928,272548,0,216049,0,112360,8e34ad8,SI
-Selection Sort recursivo,10000,aleatorio,15,391.604,49995000,9987,0,9999,112360,8e34ad8,SI
-Shell Sort,10000,aleatorio,16,4.0365,270622,0,213400,0,112361,8e34ad8,SI
-Selection Sort recursivo,10000,aleatorio,16,391.988,49995000,9989,0,9999,112361,8e34ad8,SI
-Shell Sort,10000,aleatorio,17,4.2129,265093,0,208224,0,112362,8e34ad8,SI
-Selection Sort recursivo,10000,aleatorio,17,393.416,49995000,9987,0,9999,112362,8e34ad8,SI
-Shell Sort,10000,aleatorio,18,3.9846,267111,0,210518,0,112363,8e34ad8,SI
-Selection Sort recursivo,10000,aleatorio,18,391.433,49995000,9992,0,9999,112363,8e34ad8,SI
-Shell Sort,10000,aleatorio,19,4.1967,272710,0,216161,0,112364,8e34ad8,SI
-Selection Sort recursivo,10000,aleatorio,19,390.8,49995000,9994,0,9999,112364,8e34ad8,SI
-Shell Sort,10000,aleatorio,20,4.037,259282,0,201979,0,112365,8e34ad8,SI
-Selection Sort recursivo,10000,aleatorio,20,460.977,49995000,9991,0,9999,112365,8e34ad8,SI
-Shell Sort,10000,aleatorio,21,4.1548,273548,0,216972,0,112366,8e34ad8,SI
-Selection Sort recursivo,10000,aleatorio,21,397.87,49995000,9991,0,9999,112366,8e34ad8,SI
-Shell Sort,10000,aleatorio,22,4.2518,255558,0,198187,0,112367,8e34ad8,SI
-Selection Sort recursivo,10000,aleatorio,22,405.851,49995000,9995,0,9999,112367,8e34ad8,SI
-Shell Sort,10000,aleatorio,23,3.9447,259341,0,202067,0,112368,8e34ad8,SI
-Selection Sort recursivo,10000,aleatorio,23,409.029,49995000,9994,0,9999,112368,8e34ad8,SI
-Shell Sort,10000,aleatorio,24,4.1507,269245,0,212575,0,112369,8e34ad8,SI
-Selection Sort recursivo,10000,aleatorio,24,391.525,49995000,9989,0,9999,112369,8e34ad8,SI
-Shell Sort,10000,aleatorio,25,4.0403,268992,0,212169,0,112370,8e34ad8,SI
-Selection Sort recursivo,10000,aleatorio,25,391.419,49995000,9985,0,9999,112370,8e34ad8,SI
-Shell Sort,10000,aleatorio,26,4.1023,264024,0,207043,0,112371,8e34ad8,SI
-Selection Sort recursivo,10000,aleatorio,26,393.831,49995000,9996,0,9999,112371,8e34ad8,SI
-Shell Sort,10000,aleatorio,27,4.1164,257603,0,200037,0,112372,8e34ad8,SI
-Selection Sort recursivo,10000,aleatorio,27,390.911,49995000,9989,0,9999,112372,8e34ad8,SI
-Shell Sort,10000,aleatorio,28,4.081,271085,0,214544,0,112373,8e34ad8,SI
-Selection Sort recursivo,10000,aleatorio,28,394.428,49995000,9992,0,9999,112373,8e34ad8,SI
-Shell Sort,10000,aleatorio,29,7.034,260652,0,203904,0,112374,8e34ad8,SI
-Selection Sort recursivo,10000,aleatorio,29,396.834,49995000,9994,0,9999,112374,8e34ad8,SI
-Shell Sort,10000,aleatorio,30,4.2764,269090,0,212397,0,112375,8e34ad8,SI
-Selection Sort recursivo,10000,aleatorio,30,391.193,49995000,9992,0,9999,112375,8e34ad8,SI
-Shell Sort,10000,ascendente,1,0.9883,120005,0,0,0,113346,8e34ad8,SI
-Selection Sort recursivo,10000,ascendente,1,393.733,49995000,0,0,9999,113346,8e34ad8,SI
-Shell Sort,10000,ascendente,2,1.033,120005,0,0,0,113347,8e34ad8,SI
-Selection Sort recursivo,10000,ascendente,2,390.013,49995000,0,0,9999,113347,8e34ad8,SI
-Shell Sort,10000,ascendente,3,1.0041,120005,0,0,0,113348,8e34ad8,SI
-Selection Sort recursivo,10000,ascendente,3,399.38,49995000,0,0,9999,113348,8e34ad8,SI
-Shell Sort,10000,ascendente,4,0.9908,120005,0,0,0,113349,8e34ad8,SI
-Selection Sort recursivo,10000,ascendente,4,393.772,49995000,0,0,9999,113349,8e34ad8,SI
-Shell Sort,10000,ascendente,5,1.0874,120005,0,0,0,113350,8e34ad8,SI
-Selection Sort recursivo,10000,ascendente,5,391.413,49995000,0,0,9999,113350,8e34ad8,SI
-Shell Sort,10000,ascendente,6,1.0014,120005,0,0,0,113351,8e34ad8,SI
-Selection Sort recursivo,10000,ascendente,6,412.973,49995000,0,0,9999,113351,8e34ad8,SI
-Shell Sort,10000,ascendente,7,1.0056,120005,0,0,0,113352,8e34ad8,SI
-Selection Sort recursivo,10000,ascendente,7,413.472,49995000,0,0,9999,113352,8e34ad8,SI
-Shell Sort,10000,ascendente,8,1.0217,120005,0,0,0,113353,8e34ad8,SI
-Selection Sort recursivo,10000,ascendente,8,390.969,49995000,0,0,9999,113353,8e34ad8,SI
-Shell Sort,10000,ascendente,9,1.0494,120005,0,0,0,113354,8e34ad8,SI
-Selection Sort recursivo,10000,ascendente,9,391.493,49995000,0,0,9999,113354,8e34ad8,SI
-Shell Sort,10000,ascendente,10,1.0923,120005,0,0,0,113355,8e34ad8,SI
-Selection Sort recursivo,10000,ascendente,10,396.767,49995000,0,0,9999,113355,8e34ad8,SI
-Shell Sort,10000,ascendente,11,1.0221,120005,0,0,0,113356,8e34ad8,SI
-Selection Sort recursivo,10000,ascendente,11,391.089,49995000,0,0,9999,113356,8e34ad8,SI
-Shell Sort,10000,ascendente,12,1.0181,120005,0,0,0,113357,8e34ad8,SI
-Selection Sort recursivo,10000,ascendente,12,393.545,49995000,0,0,9999,113357,8e34ad8,SI
-Shell Sort,10000,ascendente,13,0.9837,120005,0,0,0,113358,8e34ad8,SI
-Selection Sort recursivo,10000,ascendente,13,412.98,49995000,0,0,9999,113358,8e34ad8,SI
-Shell Sort,10000,ascendente,14,1.0359,120005,0,0,0,113359,8e34ad8,SI
-Selection Sort recursivo,10000,ascendente,14,395.973,49995000,0,0,9999,113359,8e34ad8,SI
-Shell Sort,10000,ascendente,15,0.9874,120005,0,0,0,113360,8e34ad8,SI
-Selection Sort recursivo,10000,ascendente,15,391.769,49995000,0,0,9999,113360,8e34ad8,SI
-Shell Sort,10000,ascendente,16,1.0089,120005,0,0,0,113361,8e34ad8,SI
-Selection Sort recursivo,10000,ascendente,16,394.401,49995000,0,0,9999,113361,8e34ad8,SI
-Shell Sort,10000,ascendente,17,1.0087,120005,0,0,0,113362,8e34ad8,SI
-Selection Sort recursivo,10000,ascendente,17,391.853,49995000,0,0,9999,113362,8e34ad8,SI
-Shell Sort,10000,ascendente,18,1.0553,120005,0,0,0,113363,8e34ad8,SI
-Selection Sort recursivo,10000,ascendente,18,390.844,49995000,0,0,9999,113363,8e34ad8,SI
-Shell Sort,10000,ascendente,19,1.061,120005,0,0,0,113364,8e34ad8,SI
-Selection Sort recursivo,10000,ascendente,19,413.969,49995000,0,0,9999,113364,8e34ad8,SI
-Shell Sort,10000,ascendente,20,1.0221,120005,0,0,0,113365,8e34ad8,SI
-Selection Sort recursivo,10000,ascendente,20,396.891,49995000,0,0,9999,113365,8e34ad8,SI
-Shell Sort,10000,ascendente,21,1.0293,120005,0,0,0,113366,8e34ad8,SI
-Selection Sort recursivo,10000,ascendente,21,400.418,49995000,0,0,9999,113366,8e34ad8,SI
-Shell Sort,10000,ascendente,22,1.1086,120005,0,0,0,113367,8e34ad8,SI
-Selection Sort recursivo,10000,ascendente,22,391.464,49995000,0,0,9999,113367,8e34ad8,SI
-Shell Sort,10000,ascendente,23,1.0091,120005,0,0,0,113368,8e34ad8,SI
-Selection Sort recursivo,10000,ascendente,23,390.96,49995000,0,0,9999,113368,8e34ad8,SI
-Shell Sort,10000,ascendente,24,1.0119,120005,0,0,0,113369,8e34ad8,SI
-Selection Sort recursivo,10000,ascendente,24,394.703,49995000,0,0,9999,113369,8e34ad8,SI
-Shell Sort,10000,ascendente,25,0.999,120005,0,0,0,113370,8e34ad8,SI
-Selection Sort recursivo,10000,ascendente,25,393.267,49995000,0,0,9999,113370,8e34ad8,SI
-Shell Sort,10000,ascendente,26,1.0023,120005,0,0,0,113371,8e34ad8,SI
-Selection Sort recursivo,10000,ascendente,26,390.514,49995000,0,0,9999,113371,8e34ad8,SI
-Shell Sort,10000,ascendente,27,0.9917,120005,0,0,0,113372,8e34ad8,SI
-Selection Sort recursivo,10000,ascendente,27,396.191,49995000,0,0,9999,113372,8e34ad8,SI
-Shell Sort,10000,ascendente,28,1.0479,120005,0,0,0,113373,8e34ad8,SI
-Selection Sort recursivo,10000,ascendente,28,391.041,49995000,0,0,9999,113373,8e34ad8,SI
-Shell Sort,10000,ascendente,29,1.0207,120005,0,0,0,113374,8e34ad8,SI
-Selection Sort recursivo,10000,ascendente,29,390.265,49995000,0,0,9999,113374,8e34ad8,SI
-Shell Sort,10000,ascendente,30,1.0227,120005,0,0,0,113375,8e34ad8,SI
-Selection Sort recursivo,10000,ascendente,30,393.451,49995000,0,0,9999,113375,8e34ad8,SI
-Shell Sort,10000,descendente,1,1.9952,172578,0,124592,0,114346,8e34ad8,SI
-Selection Sort recursivo,10000,descendente,1,413.273,49995000,5000,0,9999,114346,8e34ad8,SI
-Shell Sort,10000,descendente,2,1.9511,172578,0,124592,0,114347,8e34ad8,SI
-Selection Sort recursivo,10000,descendente,2,410.717,49995000,5000,0,9999,114347,8e34ad8,SI
-Shell Sort,10000,descendente,3,1.9387,172578,0,124592,0,114348,8e34ad8,SI
-Selection Sort recursivo,10000,descendente,3,405.968,49995000,5000,0,9999,114348,8e34ad8,SI
-Shell Sort,10000,descendente,4,2.065,172578,0,124592,0,114349,8e34ad8,SI
-Selection Sort recursivo,10000,descendente,4,407.775,49995000,5000,0,9999,114349,8e34ad8,SI
-Shell Sort,10000,descendente,5,1.9544,172578,0,124592,0,114350,8e34ad8,SI
-Selection Sort recursivo,10000,descendente,5,397.506,49995000,5000,0,9999,114350,8e34ad8,SI
-Shell Sort,10000,descendente,6,1.9618,172578,0,124592,0,114351,8e34ad8,SI
-Selection Sort recursivo,10000,descendente,6,399.633,49995000,5000,0,9999,114351,8e34ad8,SI
-Shell Sort,10000,descendente,7,1.9922,172578,0,124592,0,114352,8e34ad8,SI
-Selection Sort recursivo,10000,descendente,7,396.085,49995000,5000,0,9999,114352,8e34ad8,SI
-Shell Sort,10000,descendente,8,1.9872,172578,0,124592,0,114353,8e34ad8,SI
-Selection Sort recursivo,10000,descendente,8,396.779,49995000,5000,0,9999,114353,8e34ad8,SI
-Shell Sort,10000,descendente,9,1.9292,172578,0,124592,0,114354,8e34ad8,SI
-Selection Sort recursivo,10000,descendente,9,400.653,49995000,5000,0,9999,114354,8e34ad8,SI
-Shell Sort,10000,descendente,10,2.3757,172578,0,124592,0,114355,8e34ad8,SI
-Selection Sort recursivo,10000,descendente,10,404.93,49995000,5000,0,9999,114355,8e34ad8,SI
-Shell Sort,10000,descendente,11,1.9782,172578,0,124592,0,114356,8e34ad8,SI
-Selection Sort recursivo,10000,descendente,11,403.816,49995000,5000,0,9999,114356,8e34ad8,SI
-Shell Sort,10000,descendente,12,1.9812,172578,0,124592,0,114357,8e34ad8,SI
-Selection Sort recursivo,10000,descendente,12,400.864,49995000,5000,0,9999,114357,8e34ad8,SI
-Shell Sort,10000,descendente,13,1.9105,172578,0,124592,0,114358,8e34ad8,SI
-Selection Sort recursivo,10000,descendente,13,417.624,49995000,5000,0,9999,114358,8e34ad8,SI
-Shell Sort,10000,descendente,14,1.9666,172578,0,124592,0,114359,8e34ad8,SI
-Selection Sort recursivo,10000,descendente,14,403.093,49995000,5000,0,9999,114359,8e34ad8,SI
-Shell Sort,10000,descendente,15,1.9672,172578,0,124592,0,114360,8e34ad8,SI
-Selection Sort recursivo,10000,descendente,15,397.621,49995000,5000,0,9999,114360,8e34ad8,SI
-Shell Sort,10000,descendente,16,1.9875,172578,0,124592,0,114361,8e34ad8,SI
-Selection Sort recursivo,10000,descendente,16,396.663,49995000,5000,0,9999,114361,8e34ad8,SI
-Shell Sort,10000,descendente,17,1.916,172578,0,124592,0,114362,8e34ad8,SI
-Selection Sort recursivo,10000,descendente,17,400.852,49995000,5000,0,9999,114362,8e34ad8,SI
-Shell Sort,10000,descendente,18,1.9981,172578,0,124592,0,114363,8e34ad8,SI
-Selection Sort recursivo,10000,descendente,18,398.665,49995000,5000,0,9999,114363,8e34ad8,SI
-Shell Sort,10000,descendente,19,2.0313,172578,0,124592,0,114364,8e34ad8,SI
-Selection Sort recursivo,10000,descendente,19,398.602,49995000,5000,0,9999,114364,8e34ad8,SI
-Shell Sort,10000,descendente,20,1.9455,172578,0,124592,0,114365,8e34ad8,SI
-Selection Sort recursivo,10000,descendente,20,410.317,49995000,5000,0,9999,114365,8e34ad8,SI
-Shell Sort,10000,descendente,21,1.9545,172578,0,124592,0,114366,8e34ad8,SI
-Selection Sort recursivo,10000,descendente,21,397.381,49995000,5000,0,9999,114366,8e34ad8,SI
-Shell Sort,10000,descendente,22,1.96,172578,0,124592,0,114367,8e34ad8,SI
-Selection Sort recursivo,10000,descendente,22,397.621,49995000,5000,0,9999,114367,8e34ad8,SI
-Shell Sort,10000,descendente,23,1.9921,172578,0,124592,0,114368,8e34ad8,SI
-Selection Sort recursivo,10000,descendente,23,399.625,49995000,5000,0,9999,114368,8e34ad8,SI
-Shell Sort,10000,descendente,24,1.9137,172578,0,124592,0,114369,8e34ad8,SI
-Selection Sort recursivo,10000,descendente,24,401.304,49995000,5000,0,9999,114369,8e34ad8,SI
-Shell Sort,10000,descendente,25,2.0137,172578,0,124592,0,114370,8e34ad8,SI
-Selection Sort recursivo,10000,descendente,25,401.975,49995000,5000,0,9999,114370,8e34ad8,SI
-Shell Sort,10000,descendente,26,1.9743,172578,0,124592,0,114371,8e34ad8,SI
-Selection Sort recursivo,10000,descendente,26,400.474,49995000,5000,0,9999,114371,8e34ad8,SI
-Shell Sort,10000,descendente,27,1.9666,172578,0,124592,0,114372,8e34ad8,SI
-Selection Sort recursivo,10000,descendente,27,399.086,49995000,5000,0,9999,114372,8e34ad8,SI
-Shell Sort,10000,descendente,28,1.9523,172578,0,124592,0,114373,8e34ad8,SI
-Selection Sort recursivo,10000,descendente,28,396.628,49995000,5000,0,9999,114373,8e34ad8,SI
-Shell Sort,10000,descendente,29,1.9989,172578,0,124592,0,114374,8e34ad8,SI
-Selection Sort recursivo,10000,descendente,29,399.393,49995000,5000,0,9999,114374,8e34ad8,SI
-Shell Sort,10000,descendente,30,1.9177,172578,0,124592,0,114375,8e34ad8,SI
-Selection Sort recursivo,10000,descendente,30,405.655,49995000,5000,0,9999,114375,8e34ad8,SI
-Shell Sort,100000,aleatorio,1,60.7054,4175097,0,3487049,0,212346,8e34ad8,SI
-Shell Sort,100000,aleatorio,2,58.9808,4124217,0,3437271,0,212347,8e34ad8,SI
-Shell Sort,100000,aleatorio,3,66.3688,4334900,0,3650585,0,212348,8e34ad8,SI
-Shell Sort,100000,aleatorio,4,63.615,4190090,0,3503032,0,212349,8e34ad8,SI
-Shell Sort,100000,aleatorio,5,60.8609,4266114,0,3581101,0,212350,8e34ad8,SI
-Shell Sort,100000,aleatorio,6,73.4512,4362378,0,3677508,0,212351,8e34ad8,SI
-Shell Sort,100000,aleatorio,7,64.945,4295783,0,3609725,0,212352,8e34ad8,SI
-Shell Sort,100000,aleatorio,8,63.3604,4172895,0,3485499,0,212353,8e34ad8,SI
-Shell Sort,100000,aleatorio,9,66.995,4401910,0,3719581,0,212354,8e34ad8,SI
-Shell Sort,100000,aleatorio,10,60.0138,4286092,0,3603021,0,212355,8e34ad8,SI
-Shell Sort,100000,aleatorio,11,62.4419,4229764,0,3543085,0,212356,8e34ad8,SI
-Shell Sort,100000,aleatorio,12,61.0831,4124834,0,3437491,0,212357,8e34ad8,SI
-Shell Sort,100000,aleatorio,13,60.5269,4190773,0,3505794,0,212358,8e34ad8,SI
-Shell Sort,100000,aleatorio,14,67.1847,4404621,0,3722361,0,212359,8e34ad8,SI
-Shell Sort,100000,aleatorio,15,58.824,4149389,0,3462346,0,212360,8e34ad8,SI
-Shell Sort,100000,aleatorio,16,62.6093,4379188,0,3694749,0,212361,8e34ad8,SI
-Shell Sort,100000,aleatorio,17,60.1316,4206804,0,3518066,0,212362,8e34ad8,SI
-Shell Sort,100000,aleatorio,18,61.5601,4153303,0,3463997,0,212363,8e34ad8,SI
-Shell Sort,100000,aleatorio,19,63.3807,4356517,0,3672747,0,212364,8e34ad8,SI
-Shell Sort,100000,aleatorio,20,62.1073,4091810,0,3401669,0,212365,8e34ad8,SI
-Shell Sort,100000,aleatorio,21,58.3988,4021425,0,3331142,0,212366,8e34ad8,SI
-Shell Sort,100000,aleatorio,22,61.1799,4184636,0,3498157,0,212367,8e34ad8,SI
-Shell Sort,100000,aleatorio,23,64.8335,4238513,0,3550711,0,212368,8e34ad8,SI
-Shell Sort,100000,aleatorio,24,61.3105,4289473,0,3604822,0,212369,8e34ad8,SI
-Shell Sort,100000,aleatorio,25,61.1782,4337971,0,3652703,0,212370,8e34ad8,SI
-Shell Sort,100000,aleatorio,26,60.6265,4212779,0,3526655,0,212371,8e34ad8,SI
-Shell Sort,100000,aleatorio,27,62.9156,4218060,0,3532128,0,212372,8e34ad8,SI
-Shell Sort,100000,aleatorio,28,62.5371,4168398,0,3478715,0,212373,8e34ad8,SI
-Shell Sort,100000,aleatorio,29,63.7143,4050867,0,3360285,0,212374,8e34ad8,SI
-Shell Sort,100000,aleatorio,30,64.9486,4381233,0,3696876,0,212375,8e34ad8,SI
-Shell Sort,100000,ascendente,1,13.9763,1500006,0,0,0,213346,8e34ad8,SI
-Shell Sort,100000,ascendente,2,14.3514,1500006,0,0,0,213347,8e34ad8,SI
-Shell Sort,100000,ascendente,3,12.6196,1500006,0,0,0,213348,8e34ad8,SI
-Shell Sort,100000,ascendente,4,14.8175,1500006,0,0,0,213349,8e34ad8,SI
-Shell Sort,100000,ascendente,5,12.9726,1500006,0,0,0,213350,8e34ad8,SI
-Shell Sort,100000,ascendente,6,12.8668,1500006,0,0,0,213351,8e34ad8,SI
-Shell Sort,100000,ascendente,7,12.9484,1500006,0,0,0,213352,8e34ad8,SI
-Shell Sort,100000,ascendente,8,13.0623,1500006,0,0,0,213353,8e34ad8,SI
-Shell Sort,100000,ascendente,9,13.1445,1500006,0,0,0,213354,8e34ad8,SI
-Shell Sort,100000,ascendente,10,12.6328,1500006,0,0,0,213355,8e34ad8,SI
-Shell Sort,100000,ascendente,11,13.2333,1500006,0,0,0,213356,8e34ad8,SI
-Shell Sort,100000,ascendente,12,17.5549,1500006,0,0,0,213357,8e34ad8,SI
-Shell Sort,100000,ascendente,13,14.5564,1500006,0,0,0,213358,8e34ad8,SI
-Shell Sort,100000,ascendente,14,12.8577,1500006,0,0,0,213359,8e34ad8,SI
-Shell Sort,100000,ascendente,15,13.2094,1500006,0,0,0,213360,8e34ad8,SI
-Shell Sort,100000,ascendente,16,19.9978,1500006,0,0,0,213361,8e34ad8,SI
-Shell Sort,100000,ascendente,17,13.7096,1500006,0,0,0,213362,8e34ad8,SI
-Shell Sort,100000,ascendente,18,13.0853,1500006,0,0,0,213363,8e34ad8,SI
-Shell Sort,100000,ascendente,19,13.1986,1500006,0,0,0,213364,8e34ad8,SI
-Shell Sort,100000,ascendente,20,13.2079,1500006,0,0,0,213365,8e34ad8,SI
-Shell Sort,100000,ascendente,21,12.9927,1500006,0,0,0,213366,8e34ad8,SI
-Shell Sort,100000,ascendente,22,13.0484,1500006,0,0,0,213367,8e34ad8,SI
-Shell Sort,100000,ascendente,23,12.7924,1500006,0,0,0,213368,8e34ad8,SI
-Shell Sort,100000,ascendente,24,12.6795,1500006,0,0,0,213369,8e34ad8,SI
-Shell Sort,100000,ascendente,25,13.1867,1500006,0,0,0,213370,8e34ad8,SI
-Shell Sort,100000,ascendente,26,16.8437,1500006,0,0,0,213371,8e34ad8,SI
-Shell Sort,100000,ascendente,27,12.9363,1500006,0,0,0,213372,8e34ad8,SI
-Shell Sort,100000,ascendente,28,12.8667,1500006,0,0,0,213373,8e34ad8,SI
-Shell Sort,100000,ascendente,29,13.1273,1500006,0,0,0,213374,8e34ad8,SI
-Shell Sort,100000,ascendente,30,13.0436,1500006,0,0,0,213375,8e34ad8,SI
-Shell Sort,100000,descendente,1,25.1286,2244585,0,1655808,0,214346,8e34ad8,SI
-Shell Sort,100000,descendente,2,27.2359,2244585,0,1655808,0,214347,8e34ad8,SI
-Shell Sort,100000,descendente,3,25.2163,2244585,0,1655808,0,214348,8e34ad8,SI
-Shell Sort,100000,descendente,4,28.5997,2244585,0,1655808,0,214349,8e34ad8,SI
-Shell Sort,100000,descendente,5,25.0074,2244585,0,1655808,0,214350,8e34ad8,SI
-Shell Sort,100000,descendente,6,25.3617,2244585,0,1655808,0,214351,8e34ad8,SI
-Shell Sort,100000,descendente,7,24.9361,2244585,0,1655808,0,214352,8e34ad8,SI
-Shell Sort,100000,descendente,8,25.2249,2244585,0,1655808,0,214353,8e34ad8,SI
-Shell Sort,100000,descendente,9,27.6206,2244585,0,1655808,0,214354,8e34ad8,SI
-Shell Sort,100000,descendente,10,25.1436,2244585,0,1655808,0,214355,8e34ad8,SI
-Shell Sort,100000,descendente,11,24.8427,2244585,0,1655808,0,214356,8e34ad8,SI
-Shell Sort,100000,descendente,12,26.2161,2244585,0,1655808,0,214357,8e34ad8,SI
-Shell Sort,100000,descendente,13,25.4619,2244585,0,1655808,0,214358,8e34ad8,SI
-Shell Sort,100000,descendente,14,24.482,2244585,0,1655808,0,214359,8e34ad8,SI
-Shell Sort,100000,descendente,15,25.616,2244585,0,1655808,0,214360,8e34ad8,SI
-Shell Sort,100000,descendente,16,24.9372,2244585,0,1655808,0,214361,8e34ad8,SI
-Shell Sort,100000,descendente,17,25.0452,2244585,0,1655808,0,214362,8e34ad8,SI
-Shell Sort,100000,descendente,18,24.9889,2244585,0,1655808,0,214363,8e34ad8,SI
-Shell Sort,100000,descendente,19,25.3372,2244585,0,1655808,0,214364,8e34ad8,SI
-Shell Sort,100000,descendente,20,25.1983,2244585,0,1655808,0,214365,8e34ad8,SI
-Shell Sort,100000,descendente,21,25.9906,2244585,0,1655808,0,214366,8e34ad8,SI
-Shell Sort,100000,descendente,22,25.9914,2244585,0,1655808,0,214367,8e34ad8,SI
-Shell Sort,100000,descendente,23,25.3291,2244585,0,1655808,0,214368,8e34ad8,SI
-Shell Sort,100000,descendente,24,25.246,2244585,0,1655808,0,214369,8e34ad8,SI
-Shell Sort,100000,descendente,25,25.0239,2244585,0,1655808,0,214370,8e34ad8,SI
-Shell Sort,100000,descendente,26,24.4619,2244585,0,1655808,0,214371,8e34ad8,SI
-Shell Sort,100000,descendente,27,24.5351,2244585,0,1655808,0,214372,8e34ad8,SI
-Shell Sort,100000,descendente,28,25.9322,2244585,0,1655808,0,214373,8e34ad8,SI
-Shell Sort,100000,descendente,29,25.2134,2244585,0,1655808,0,214374,8e34ad8,SI
-Shell Sort,100000,descendente,30,25.4007,2244585,0,1655808,0,214375,8e34ad8,SI
+Shell Sort,1000,aleatorio,1,0.2135,15027,0,11568,0,12346,09fa4b3,SI
+Selection Sort recursivo,1000,aleatorio,1,2.8017,499500,997,0,999,12346,09fa4b3,SI
+Shell Sort,1000,aleatorio,2,0.2173,15032,0,11614,0,12347,09fa4b3,SI
+Selection Sort recursivo,1000,aleatorio,2,2.7974,499500,993,0,999,12347,09fa4b3,SI
+Shell Sort,1000,aleatorio,3,0.2099,14706,0,11199,0,12348,09fa4b3,SI
+Selection Sort recursivo,1000,aleatorio,3,2.7623,499500,989,0,999,12348,09fa4b3,SI
+Shell Sort,1000,aleatorio,4,0.2226,15906,0,12544,0,12349,09fa4b3,SI
+Selection Sort recursivo,1000,aleatorio,4,2.7963,499500,993,0,999,12349,09fa4b3,SI
+Shell Sort,1000,aleatorio,5,0.2096,14711,0,11218,0,12350,09fa4b3,SI
+Selection Sort recursivo,1000,aleatorio,5,2.8106,499500,993,0,999,12350,09fa4b3,SI
+Shell Sort,1000,aleatorio,6,0.2114,14896,0,11326,0,12351,09fa4b3,SI
+Selection Sort recursivo,1000,aleatorio,6,2.7884,499500,994,0,999,12351,09fa4b3,SI
+Shell Sort,1000,aleatorio,7,0.2175,15698,0,12312,0,12352,09fa4b3,SI
+Selection Sort recursivo,1000,aleatorio,7,2.7677,499500,991,0,999,12352,09fa4b3,SI
+Shell Sort,1000,aleatorio,8,0.2123,14994,0,11477,0,12353,09fa4b3,SI
+Selection Sort recursivo,1000,aleatorio,8,2.7577,499500,994,0,999,12353,09fa4b3,SI
+Shell Sort,1000,aleatorio,9,0.2119,14658,0,11099,0,12354,09fa4b3,SI
+Selection Sort recursivo,1000,aleatorio,9,2.7668,499500,989,0,999,12354,09fa4b3,SI
+Shell Sort,1000,aleatorio,10,0.2149,15114,0,11612,0,12355,09fa4b3,SI
+Selection Sort recursivo,1000,aleatorio,10,2.8141,499500,995,0,999,12355,09fa4b3,SI
+Shell Sort,1000,aleatorio,11,0.207,14570,0,10950,0,12356,09fa4b3,SI
+Selection Sort recursivo,1000,aleatorio,11,2.7546,499500,992,0,999,12356,09fa4b3,SI
+Shell Sort,1000,aleatorio,12,0.223,15232,0,11657,0,12357,09fa4b3,SI
+Selection Sort recursivo,1000,aleatorio,12,2.756,499500,985,0,999,12357,09fa4b3,SI
+Shell Sort,1000,aleatorio,13,0.2111,14853,0,11364,0,12358,09fa4b3,SI
+Selection Sort recursivo,1000,aleatorio,13,2.7599,499500,990,0,999,12358,09fa4b3,SI
+Shell Sort,1000,aleatorio,14,0.2061,14320,0,10788,0,12359,09fa4b3,SI
+Selection Sort recursivo,1000,aleatorio,14,2.8419,499500,991,0,999,12359,09fa4b3,SI
+Shell Sort,1000,aleatorio,15,0.232,15765,0,12219,0,12360,09fa4b3,SI
+Selection Sort recursivo,1000,aleatorio,15,2.7634,499500,995,0,999,12360,09fa4b3,SI
+Shell Sort,1000,aleatorio,16,0.2254,16355,0,12993,0,12361,09fa4b3,SI
+Selection Sort recursivo,1000,aleatorio,16,2.7557,499500,990,0,999,12361,09fa4b3,SI
+Shell Sort,1000,aleatorio,17,0.2109,14832,0,11196,0,12362,09fa4b3,SI
+Selection Sort recursivo,1000,aleatorio,17,2.7911,499500,995,0,999,12362,09fa4b3,SI
+Shell Sort,1000,aleatorio,18,0.2317,15347,0,11958,0,12363,09fa4b3,SI
+Selection Sort recursivo,1000,aleatorio,18,2.8042,499500,994,0,999,12363,09fa4b3,SI
+Shell Sort,1000,aleatorio,19,0.2186,15945,0,12461,0,12364,09fa4b3,SI
+Selection Sort recursivo,1000,aleatorio,19,2.7634,499500,994,0,999,12364,09fa4b3,SI
+Shell Sort,1000,aleatorio,20,0.2154,15296,0,11887,0,12365,09fa4b3,SI
+Selection Sort recursivo,1000,aleatorio,20,2.7582,499500,996,0,999,12365,09fa4b3,SI
+Shell Sort,1000,aleatorio,21,0.2133,14993,0,11492,0,12366,09fa4b3,SI
+Selection Sort recursivo,1000,aleatorio,21,2.8375,499500,996,0,999,12366,09fa4b3,SI
+Shell Sort,1000,aleatorio,22,0.2256,16343,0,13032,0,12367,09fa4b3,SI
+Selection Sort recursivo,1000,aleatorio,22,2.8515,499500,986,0,999,12367,09fa4b3,SI
+Shell Sort,1000,aleatorio,23,0.2107,14585,0,10960,0,12368,09fa4b3,SI
+Selection Sort recursivo,1000,aleatorio,23,2.7593,499500,992,0,999,12368,09fa4b3,SI
+Shell Sort,1000,aleatorio,24,0.2145,15068,0,11547,0,12369,09fa4b3,SI
+Selection Sort recursivo,1000,aleatorio,24,2.77,499500,988,0,999,12369,09fa4b3,SI
+Shell Sort,1000,aleatorio,25,0.2169,15319,0,11795,0,12370,09fa4b3,SI
+Selection Sort recursivo,1000,aleatorio,25,2.7576,499500,993,0,999,12370,09fa4b3,SI
+Shell Sort,1000,aleatorio,26,0.2249,16122,0,12758,0,12371,09fa4b3,SI
+Selection Sort recursivo,1000,aleatorio,26,2.7739,499500,995,0,999,12371,09fa4b3,SI
+Shell Sort,1000,aleatorio,27,0.2242,15749,0,12350,0,12372,09fa4b3,SI
+Selection Sort recursivo,1000,aleatorio,27,2.7693,499500,989,0,999,12372,09fa4b3,SI
+Shell Sort,1000,aleatorio,28,0.2188,15755,0,12303,0,12373,09fa4b3,SI
+Selection Sort recursivo,1000,aleatorio,28,2.7669,499500,989,0,999,12373,09fa4b3,SI
+Shell Sort,1000,aleatorio,29,0.2079,14432,0,10872,0,12374,09fa4b3,SI
+Selection Sort recursivo,1000,aleatorio,29,2.7672,499500,993,0,999,12374,09fa4b3,SI
+Shell Sort,1000,aleatorio,30,0.2159,15309,0,11799,0,12375,09fa4b3,SI
+Selection Sort recursivo,1000,aleatorio,30,2.8036,499500,995,0,999,12375,09fa4b3,SI
+Shell Sort,1000,ascendente,1,0.0377,8006,0,0,0,13346,09fa4b3,SI
+Selection Sort recursivo,1000,ascendente,1,2.6505,499500,0,0,999,13346,09fa4b3,SI
+Shell Sort,1000,ascendente,2,0.0376,8006,0,0,0,13347,09fa4b3,SI
+Selection Sort recursivo,1000,ascendente,2,2.6564,499500,0,0,999,13347,09fa4b3,SI
+Shell Sort,1000,ascendente,3,0.0377,8006,0,0,0,13348,09fa4b3,SI
+Selection Sort recursivo,1000,ascendente,3,2.674,499500,0,0,999,13348,09fa4b3,SI
+Shell Sort,1000,ascendente,4,0.0376,8006,0,0,0,13349,09fa4b3,SI
+Selection Sort recursivo,1000,ascendente,4,2.6772,499500,0,0,999,13349,09fa4b3,SI
+Shell Sort,1000,ascendente,5,0.0381,8006,0,0,0,13350,09fa4b3,SI
+Selection Sort recursivo,1000,ascendente,5,2.6641,499500,0,0,999,13350,09fa4b3,SI
+Shell Sort,1000,ascendente,6,0.0383,8006,0,0,0,13351,09fa4b3,SI
+Selection Sort recursivo,1000,ascendente,6,2.6579,499500,0,0,999,13351,09fa4b3,SI
+Shell Sort,1000,ascendente,7,0.0376,8006,0,0,0,13352,09fa4b3,SI
+Selection Sort recursivo,1000,ascendente,7,2.6649,499500,0,0,999,13352,09fa4b3,SI
+Shell Sort,1000,ascendente,8,0.0376,8006,0,0,0,13353,09fa4b3,SI
+Selection Sort recursivo,1000,ascendente,8,2.6796,499500,0,0,999,13353,09fa4b3,SI
+Shell Sort,1000,ascendente,9,0.0384,8006,0,0,0,13354,09fa4b3,SI
+Selection Sort recursivo,1000,ascendente,9,2.6646,499500,0,0,999,13354,09fa4b3,SI
+Shell Sort,1000,ascendente,10,0.0386,8006,0,0,0,13355,09fa4b3,SI
+Selection Sort recursivo,1000,ascendente,10,2.6665,499500,0,0,999,13355,09fa4b3,SI
+Shell Sort,1000,ascendente,11,0.0385,8006,0,0,0,13356,09fa4b3,SI
+Selection Sort recursivo,1000,ascendente,11,2.7645,499500,0,0,999,13356,09fa4b3,SI
+Shell Sort,1000,ascendente,12,0.0385,8006,0,0,0,13357,09fa4b3,SI
+Selection Sort recursivo,1000,ascendente,12,2.6646,499500,0,0,999,13357,09fa4b3,SI
+Shell Sort,1000,ascendente,13,0.0511,8006,0,0,0,13358,09fa4b3,SI
+Selection Sort recursivo,1000,ascendente,13,2.6661,499500,0,0,999,13358,09fa4b3,SI
+Shell Sort,1000,ascendente,14,0.0384,8006,0,0,0,13359,09fa4b3,SI
+Selection Sort recursivo,1000,ascendente,14,2.6687,499500,0,0,999,13359,09fa4b3,SI
+Shell Sort,1000,ascendente,15,0.0377,8006,0,0,0,13360,09fa4b3,SI
+Selection Sort recursivo,1000,ascendente,15,2.7121,499500,0,0,999,13360,09fa4b3,SI
+Shell Sort,1000,ascendente,16,0.0383,8006,0,0,0,13361,09fa4b3,SI
+Selection Sort recursivo,1000,ascendente,16,2.6612,499500,0,0,999,13361,09fa4b3,SI
+Shell Sort,1000,ascendente,17,0.0376,8006,0,0,0,13362,09fa4b3,SI
+Selection Sort recursivo,1000,ascendente,17,2.6674,499500,0,0,999,13362,09fa4b3,SI
+Shell Sort,1000,ascendente,18,0.0385,8006,0,0,0,13363,09fa4b3,SI
+Selection Sort recursivo,1000,ascendente,18,2.7138,499500,0,0,999,13363,09fa4b3,SI
+Shell Sort,1000,ascendente,19,0.0384,8006,0,0,0,13364,09fa4b3,SI
+Selection Sort recursivo,1000,ascendente,19,2.6604,499500,0,0,999,13364,09fa4b3,SI
+Shell Sort,1000,ascendente,20,0.0377,8006,0,0,0,13365,09fa4b3,SI
+Selection Sort recursivo,1000,ascendente,20,2.6576,499500,0,0,999,13365,09fa4b3,SI
+Shell Sort,1000,ascendente,21,0.0384,8006,0,0,0,13366,09fa4b3,SI
+Selection Sort recursivo,1000,ascendente,21,2.6837,499500,0,0,999,13366,09fa4b3,SI
+Shell Sort,1000,ascendente,22,0.0378,8006,0,0,0,13367,09fa4b3,SI
+Selection Sort recursivo,1000,ascendente,22,2.6586,499500,0,0,999,13367,09fa4b3,SI
+Shell Sort,1000,ascendente,23,0.0385,8006,0,0,0,13368,09fa4b3,SI
+Selection Sort recursivo,1000,ascendente,23,2.6585,499500,0,0,999,13368,09fa4b3,SI
+Shell Sort,1000,ascendente,24,0.0386,8006,0,0,0,13369,09fa4b3,SI
+Selection Sort recursivo,1000,ascendente,24,2.754,499500,0,0,999,13369,09fa4b3,SI
+Shell Sort,1000,ascendente,25,0.0384,8006,0,0,0,13370,09fa4b3,SI
+Selection Sort recursivo,1000,ascendente,25,2.801,499500,0,0,999,13370,09fa4b3,SI
+Shell Sort,1000,ascendente,26,0.0383,8006,0,0,0,13371,09fa4b3,SI
+Selection Sort recursivo,1000,ascendente,26,2.6618,499500,0,0,999,13371,09fa4b3,SI
+Shell Sort,1000,ascendente,27,0.0395,8006,0,0,0,13372,09fa4b3,SI
+Selection Sort recursivo,1000,ascendente,27,2.71,499500,0,0,999,13372,09fa4b3,SI
+Shell Sort,1000,ascendente,28,0.0375,8006,0,0,0,13373,09fa4b3,SI
+Selection Sort recursivo,1000,ascendente,28,2.6598,499500,0,0,999,13373,09fa4b3,SI
+Shell Sort,1000,ascendente,29,0.0382,8006,0,0,0,13374,09fa4b3,SI
+Selection Sort recursivo,1000,ascendente,29,2.6612,499500,0,0,999,13374,09fa4b3,SI
+Shell Sort,1000,ascendente,30,0.0378,8006,0,0,0,13375,09fa4b3,SI
+Selection Sort recursivo,1000,ascendente,30,2.7291,499500,0,0,999,13375,09fa4b3,SI
+Shell Sort,1000,descendente,1,0.0822,11716,0,9072,0,14346,09fa4b3,SI
+Selection Sort recursivo,1000,descendente,1,2.7175,499500,500,0,999,14346,09fa4b3,SI
+Shell Sort,1000,descendente,2,0.0861,11716,0,9072,0,14347,09fa4b3,SI
+Selection Sort recursivo,1000,descendente,2,2.6689,499500,500,0,999,14347,09fa4b3,SI
+Shell Sort,1000,descendente,3,0.0816,11716,0,9072,0,14348,09fa4b3,SI
+Selection Sort recursivo,1000,descendente,3,2.6908,499500,500,0,999,14348,09fa4b3,SI
+Shell Sort,1000,descendente,4,0.0822,11716,0,9072,0,14349,09fa4b3,SI
+Selection Sort recursivo,1000,descendente,4,2.6558,499500,500,0,999,14349,09fa4b3,SI
+Shell Sort,1000,descendente,5,0.0827,11716,0,9072,0,14350,09fa4b3,SI
+Selection Sort recursivo,1000,descendente,5,2.6644,499500,500,0,999,14350,09fa4b3,SI
+Shell Sort,1000,descendente,6,0.082,11716,0,9072,0,14351,09fa4b3,SI
+Selection Sort recursivo,1000,descendente,6,2.6699,499500,500,0,999,14351,09fa4b3,SI
+Shell Sort,1000,descendente,7,0.1011,11716,0,9072,0,14352,09fa4b3,SI
+Selection Sort recursivo,1000,descendente,7,2.6682,499500,500,0,999,14352,09fa4b3,SI
+Shell Sort,1000,descendente,8,0.0846,11716,0,9072,0,14353,09fa4b3,SI
+Selection Sort recursivo,1000,descendente,8,2.7428,499500,500,0,999,14353,09fa4b3,SI
+Shell Sort,1000,descendente,9,0.0813,11716,0,9072,0,14354,09fa4b3,SI
+Selection Sort recursivo,1000,descendente,9,2.7284,499500,500,0,999,14354,09fa4b3,SI
+Shell Sort,1000,descendente,10,0.0887,11716,0,9072,0,14355,09fa4b3,SI
+Selection Sort recursivo,1000,descendente,10,2.671,499500,500,0,999,14355,09fa4b3,SI
+Shell Sort,1000,descendente,11,0.0995,11716,0,9072,0,14356,09fa4b3,SI
+Selection Sort recursivo,1000,descendente,11,2.6977,499500,500,0,999,14356,09fa4b3,SI
+Shell Sort,1000,descendente,12,0.0846,11716,0,9072,0,14357,09fa4b3,SI
+Selection Sort recursivo,1000,descendente,12,2.668,499500,500,0,999,14357,09fa4b3,SI
+Shell Sort,1000,descendente,13,0.0813,11716,0,9072,0,14358,09fa4b3,SI
+Selection Sort recursivo,1000,descendente,13,2.6703,499500,500,0,999,14358,09fa4b3,SI
+Shell Sort,1000,descendente,14,0.0823,11716,0,9072,0,14359,09fa4b3,SI
+Selection Sort recursivo,1000,descendente,14,2.6694,499500,500,0,999,14359,09fa4b3,SI
+Shell Sort,1000,descendente,15,0.0987,11716,0,9072,0,14360,09fa4b3,SI
+Selection Sort recursivo,1000,descendente,15,2.7078,499500,500,0,999,14360,09fa4b3,SI
+Shell Sort,1000,descendente,16,0.0932,11716,0,9072,0,14361,09fa4b3,SI
+Selection Sort recursivo,1000,descendente,16,2.679,499500,500,0,999,14361,09fa4b3,SI
+Shell Sort,1000,descendente,17,0.0893,11716,0,9072,0,14362,09fa4b3,SI
+Selection Sort recursivo,1000,descendente,17,2.7474,499500,500,0,999,14362,09fa4b3,SI
+Shell Sort,1000,descendente,18,0.0815,11716,0,9072,0,14363,09fa4b3,SI
+Selection Sort recursivo,1000,descendente,18,2.6694,499500,500,0,999,14363,09fa4b3,SI
+Shell Sort,1000,descendente,19,0.0936,11716,0,9072,0,14364,09fa4b3,SI
+Selection Sort recursivo,1000,descendente,19,2.6692,499500,500,0,999,14364,09fa4b3,SI
+Shell Sort,1000,descendente,20,0.0848,11716,0,9072,0,14365,09fa4b3,SI
+Selection Sort recursivo,1000,descendente,20,2.7348,499500,500,0,999,14365,09fa4b3,SI
+Shell Sort,1000,descendente,21,0.0928,11716,0,9072,0,14366,09fa4b3,SI
+Selection Sort recursivo,1000,descendente,21,2.6806,499500,500,0,999,14366,09fa4b3,SI
+Shell Sort,1000,descendente,22,0.0819,11716,0,9072,0,14367,09fa4b3,SI
+Selection Sort recursivo,1000,descendente,22,2.6717,499500,500,0,999,14367,09fa4b3,SI
+Shell Sort,1000,descendente,23,0.0852,11716,0,9072,0,14368,09fa4b3,SI
+Selection Sort recursivo,1000,descendente,23,2.6725,499500,500,0,999,14368,09fa4b3,SI
+Shell Sort,1000,descendente,24,0.0817,11716,0,9072,0,14369,09fa4b3,SI
+Selection Sort recursivo,1000,descendente,24,2.7644,499500,500,0,999,14369,09fa4b3,SI
+Shell Sort,1000,descendente,25,0.0823,11716,0,9072,0,14370,09fa4b3,SI
+Selection Sort recursivo,1000,descendente,25,2.6727,499500,500,0,999,14370,09fa4b3,SI
+Shell Sort,1000,descendente,26,0.0829,11716,0,9072,0,14371,09fa4b3,SI
+Selection Sort recursivo,1000,descendente,26,2.6686,499500,500,0,999,14371,09fa4b3,SI
+Shell Sort,1000,descendente,27,0.0819,11716,0,9072,0,14372,09fa4b3,SI
+Selection Sort recursivo,1000,descendente,27,2.6719,499500,500,0,999,14372,09fa4b3,SI
+Shell Sort,1000,descendente,28,0.0819,11716,0,9072,0,14373,09fa4b3,SI
+Selection Sort recursivo,1000,descendente,28,2.687,499500,500,0,999,14373,09fa4b3,SI
+Shell Sort,1000,descendente,29,0.0814,11716,0,9072,0,14374,09fa4b3,SI
+Selection Sort recursivo,1000,descendente,29,2.6683,499500,500,0,999,14374,09fa4b3,SI
+Shell Sort,1000,descendente,30,0.0811,11716,0,9072,0,14375,09fa4b3,SI
+Selection Sort recursivo,1000,descendente,30,2.6721,499500,500,0,999,14375,09fa4b3,SI
+Shell Sort,10000,aleatorio,1,3.2826,261452,0,204369,0,112346,09fa4b3,SI
+Selection Sort recursivo,10000,aleatorio,1,265.602,49995000,9989,0,9999,112346,09fa4b3,SI
+Shell Sort,10000,aleatorio,2,3.248,257640,0,200356,0,112347,09fa4b3,SI
+Selection Sort recursivo,10000,aleatorio,2,264.306,49995000,9988,0,9999,112347,09fa4b3,SI
+Shell Sort,10000,aleatorio,3,3.2505,268816,0,211848,0,112348,09fa4b3,SI
+Selection Sort recursivo,10000,aleatorio,3,270.033,49995000,9995,0,9999,112348,09fa4b3,SI
+Shell Sort,10000,aleatorio,4,3.298,263245,0,206659,0,112349,09fa4b3,SI
+Selection Sort recursivo,10000,aleatorio,4,264.218,49995000,9988,0,9999,112349,09fa4b3,SI
+Shell Sort,10000,aleatorio,5,3.4147,268316,0,211355,0,112350,09fa4b3,SI
+Selection Sort recursivo,10000,aleatorio,5,264.759,49995000,9989,0,9999,112350,09fa4b3,SI
+Shell Sort,10000,aleatorio,6,3.4972,266054,0,209214,0,112351,09fa4b3,SI
+Selection Sort recursivo,10000,aleatorio,6,266.015,49995000,9994,0,9999,112351,09fa4b3,SI
+Shell Sort,10000,aleatorio,7,3.2808,267418,0,210724,0,112352,09fa4b3,SI
+Selection Sort recursivo,10000,aleatorio,7,267.018,49995000,9988,0,9999,112352,09fa4b3,SI
+Shell Sort,10000,aleatorio,8,3.2571,262319,0,205420,0,112353,09fa4b3,SI
+Selection Sort recursivo,10000,aleatorio,8,267.983,49995000,9990,0,9999,112353,09fa4b3,SI
+Shell Sort,10000,aleatorio,9,3.2343,266811,0,209981,0,112354,09fa4b3,SI
+Selection Sort recursivo,10000,aleatorio,9,264.32,49995000,9988,0,9999,112354,09fa4b3,SI
+Shell Sort,10000,aleatorio,10,3.3054,258913,0,201721,0,112355,09fa4b3,SI
+Selection Sort recursivo,10000,aleatorio,10,303.928,49995000,9987,0,9999,112355,09fa4b3,SI
+Shell Sort,10000,aleatorio,11,3.8936,256361,0,199004,0,112356,09fa4b3,SI
+Selection Sort recursivo,10000,aleatorio,11,392.694,49995000,9992,0,9999,112356,09fa4b3,SI
+Shell Sort,10000,aleatorio,12,3.9444,258862,0,201670,0,112357,09fa4b3,SI
+Selection Sort recursivo,10000,aleatorio,12,389.065,49995000,9990,0,9999,112357,09fa4b3,SI
+Shell Sort,10000,aleatorio,13,3.936,260968,0,204114,0,112358,09fa4b3,SI
+Selection Sort recursivo,10000,aleatorio,13,389.698,49995000,9992,0,9999,112358,09fa4b3,SI
+Shell Sort,10000,aleatorio,14,3.9486,262012,0,204896,0,112359,09fa4b3,SI
+Selection Sort recursivo,10000,aleatorio,14,395.588,49995000,9991,0,9999,112359,09fa4b3,SI
+Shell Sort,10000,aleatorio,15,4.0636,272548,0,216049,0,112360,09fa4b3,SI
+Selection Sort recursivo,10000,aleatorio,15,392.33,49995000,9987,0,9999,112360,09fa4b3,SI
+Shell Sort,10000,aleatorio,16,4.0467,270622,0,213400,0,112361,09fa4b3,SI
+Selection Sort recursivo,10000,aleatorio,16,389.312,49995000,9989,0,9999,112361,09fa4b3,SI
+Shell Sort,10000,aleatorio,17,3.9823,265093,0,208224,0,112362,09fa4b3,SI
+Selection Sort recursivo,10000,aleatorio,17,391.616,49995000,9987,0,9999,112362,09fa4b3,SI
+Shell Sort,10000,aleatorio,18,4.0131,267111,0,210518,0,112363,09fa4b3,SI
+Selection Sort recursivo,10000,aleatorio,18,392.522,49995000,9992,0,9999,112363,09fa4b3,SI
+Shell Sort,10000,aleatorio,19,4.0962,272710,0,216161,0,112364,09fa4b3,SI
+Selection Sort recursivo,10000,aleatorio,19,394.248,49995000,9994,0,9999,112364,09fa4b3,SI
+Shell Sort,10000,aleatorio,20,4.0434,259282,0,201979,0,112365,09fa4b3,SI
+Selection Sort recursivo,10000,aleatorio,20,395.46,49995000,9991,0,9999,112365,09fa4b3,SI
+Shell Sort,10000,aleatorio,21,4.0341,273548,0,216972,0,112366,09fa4b3,SI
+Selection Sort recursivo,10000,aleatorio,21,389.716,49995000,9991,0,9999,112366,09fa4b3,SI
+Shell Sort,10000,aleatorio,22,3.8969,255558,0,198187,0,112367,09fa4b3,SI
+Selection Sort recursivo,10000,aleatorio,22,388.958,49995000,9995,0,9999,112367,09fa4b3,SI
+Shell Sort,10000,aleatorio,23,3.9175,259341,0,202067,0,112368,09fa4b3,SI
+Selection Sort recursivo,10000,aleatorio,23,392.788,49995000,9994,0,9999,112368,09fa4b3,SI
+Shell Sort,10000,aleatorio,24,4.0911,269245,0,212575,0,112369,09fa4b3,SI
+Selection Sort recursivo,10000,aleatorio,24,390.095,49995000,9989,0,9999,112369,09fa4b3,SI
+Shell Sort,10000,aleatorio,25,4.0802,268992,0,212169,0,112370,09fa4b3,SI
+Selection Sort recursivo,10000,aleatorio,25,389.92,49995000,9985,0,9999,112370,09fa4b3,SI
+Shell Sort,10000,aleatorio,26,3.9563,264024,0,207043,0,112371,09fa4b3,SI
+Selection Sort recursivo,10000,aleatorio,26,392.083,49995000,9996,0,9999,112371,09fa4b3,SI
+Shell Sort,10000,aleatorio,27,3.9413,257603,0,200037,0,112372,09fa4b3,SI
+Selection Sort recursivo,10000,aleatorio,27,400.327,49995000,9989,0,9999,112372,09fa4b3,SI
+Shell Sort,10000,aleatorio,28,4.445,271085,0,214544,0,112373,09fa4b3,SI
+Selection Sort recursivo,10000,aleatorio,28,400.176,49995000,9992,0,9999,112373,09fa4b3,SI
+Shell Sort,10000,aleatorio,29,4.0454,260652,0,203904,0,112374,09fa4b3,SI
+Selection Sort recursivo,10000,aleatorio,29,395.07,49995000,9994,0,9999,112374,09fa4b3,SI
+Shell Sort,10000,aleatorio,30,4.0159,269090,0,212397,0,112375,09fa4b3,SI
+Selection Sort recursivo,10000,aleatorio,30,391.392,49995000,9992,0,9999,112375,09fa4b3,SI
+Shell Sort,10000,ascendente,1,1.0658,120005,0,0,0,113346,09fa4b3,SI
+Selection Sort recursivo,10000,ascendente,1,392.749,49995000,0,0,9999,113346,09fa4b3,SI
+Shell Sort,10000,ascendente,2,1.0027,120005,0,0,0,113347,09fa4b3,SI
+Selection Sort recursivo,10000,ascendente,2,391.727,49995000,0,0,9999,113347,09fa4b3,SI
+Shell Sort,10000,ascendente,3,1.3609,120005,0,0,0,113348,09fa4b3,SI
+Selection Sort recursivo,10000,ascendente,3,412.37,49995000,0,0,9999,113348,09fa4b3,SI
+Shell Sort,10000,ascendente,4,1.0248,120005,0,0,0,113349,09fa4b3,SI
+Selection Sort recursivo,10000,ascendente,4,393.46,49995000,0,0,9999,113349,09fa4b3,SI
+Shell Sort,10000,ascendente,5,1.0213,120005,0,0,0,113350,09fa4b3,SI
+Selection Sort recursivo,10000,ascendente,5,389.509,49995000,0,0,9999,113350,09fa4b3,SI
+Shell Sort,10000,ascendente,6,1.0207,120005,0,0,0,113351,09fa4b3,SI
+Selection Sort recursivo,10000,ascendente,6,395.674,49995000,0,0,9999,113351,09fa4b3,SI
+Shell Sort,10000,ascendente,7,1.0293,120005,0,0,0,113352,09fa4b3,SI
+Selection Sort recursivo,10000,ascendente,7,392.878,49995000,0,0,9999,113352,09fa4b3,SI
+Shell Sort,10000,ascendente,8,1.0716,120005,0,0,0,113353,09fa4b3,SI
+Selection Sort recursivo,10000,ascendente,8,390.935,49995000,0,0,9999,113353,09fa4b3,SI
+Shell Sort,10000,ascendente,9,1.0275,120005,0,0,0,113354,09fa4b3,SI
+Selection Sort recursivo,10000,ascendente,9,391.188,49995000,0,0,9999,113354,09fa4b3,SI
+Shell Sort,10000,ascendente,10,1.0199,120005,0,0,0,113355,09fa4b3,SI
+Selection Sort recursivo,10000,ascendente,10,396.717,49995000,0,0,9999,113355,09fa4b3,SI
+Shell Sort,10000,ascendente,11,1.0577,120005,0,0,0,113356,09fa4b3,SI
+Selection Sort recursivo,10000,ascendente,11,393.345,49995000,0,0,9999,113356,09fa4b3,SI
+Shell Sort,10000,ascendente,12,1.0775,120005,0,0,0,113357,09fa4b3,SI
+Selection Sort recursivo,10000,ascendente,12,389.432,49995000,0,0,9999,113357,09fa4b3,SI
+Shell Sort,10000,ascendente,13,1.0225,120005,0,0,0,113358,09fa4b3,SI
+Selection Sort recursivo,10000,ascendente,13,392.889,49995000,0,0,9999,113358,09fa4b3,SI
+Shell Sort,10000,ascendente,14,1.0005,120005,0,0,0,113359,09fa4b3,SI
+Selection Sort recursivo,10000,ascendente,14,389.847,49995000,0,0,9999,113359,09fa4b3,SI
+Shell Sort,10000,ascendente,15,0.9948,120005,0,0,0,113360,09fa4b3,SI
+Selection Sort recursivo,10000,ascendente,15,389.637,49995000,0,0,9999,113360,09fa4b3,SI
+Shell Sort,10000,ascendente,16,1.0034,120005,0,0,0,113361,09fa4b3,SI
+Selection Sort recursivo,10000,ascendente,16,396.442,49995000,0,0,9999,113361,09fa4b3,SI
+Shell Sort,10000,ascendente,17,1.0562,120005,0,0,0,113362,09fa4b3,SI
+Selection Sort recursivo,10000,ascendente,17,401.516,49995000,0,0,9999,113362,09fa4b3,SI
+Shell Sort,10000,ascendente,18,0.9835,120005,0,0,0,113363,09fa4b3,SI
+Selection Sort recursivo,10000,ascendente,18,388.622,49995000,0,0,9999,113363,09fa4b3,SI
+Shell Sort,10000,ascendente,19,1.0301,120005,0,0,0,113364,09fa4b3,SI
+Selection Sort recursivo,10000,ascendente,19,394.337,49995000,0,0,9999,113364,09fa4b3,SI
+Shell Sort,10000,ascendente,20,0.9867,120005,0,0,0,113365,09fa4b3,SI
+Selection Sort recursivo,10000,ascendente,20,394.09,49995000,0,0,9999,113365,09fa4b3,SI
+Shell Sort,10000,ascendente,21,0.9868,120005,0,0,0,113366,09fa4b3,SI
+Selection Sort recursivo,10000,ascendente,21,389.163,49995000,0,0,9999,113366,09fa4b3,SI
+Shell Sort,10000,ascendente,22,1.003,120005,0,0,0,113367,09fa4b3,SI
+Selection Sort recursivo,10000,ascendente,22,391.83,49995000,0,0,9999,113367,09fa4b3,SI
+Shell Sort,10000,ascendente,23,1.0095,120005,0,0,0,113368,09fa4b3,SI
+Selection Sort recursivo,10000,ascendente,23,394.175,49995000,0,0,9999,113368,09fa4b3,SI
+Shell Sort,10000,ascendente,24,1.0042,120005,0,0,0,113369,09fa4b3,SI
+Selection Sort recursivo,10000,ascendente,24,388.923,49995000,0,0,9999,113369,09fa4b3,SI
+Shell Sort,10000,ascendente,25,1.025,120005,0,0,0,113370,09fa4b3,SI
+Selection Sort recursivo,10000,ascendente,25,391.806,49995000,0,0,9999,113370,09fa4b3,SI
+Shell Sort,10000,ascendente,26,1.0368,120005,0,0,0,113371,09fa4b3,SI
+Selection Sort recursivo,10000,ascendente,26,393.902,49995000,0,0,9999,113371,09fa4b3,SI
+Shell Sort,10000,ascendente,27,1.023,120005,0,0,0,113372,09fa4b3,SI
+Selection Sort recursivo,10000,ascendente,27,388.962,49995000,0,0,9999,113372,09fa4b3,SI
+Shell Sort,10000,ascendente,28,1.0185,120005,0,0,0,113373,09fa4b3,SI
+Selection Sort recursivo,10000,ascendente,28,392.123,49995000,0,0,9999,113373,09fa4b3,SI
+Shell Sort,10000,ascendente,29,1.0036,120005,0,0,0,113374,09fa4b3,SI
+Selection Sort recursivo,10000,ascendente,29,392.06,49995000,0,0,9999,113374,09fa4b3,SI
+Shell Sort,10000,ascendente,30,1.0025,120005,0,0,0,113375,09fa4b3,SI
+Selection Sort recursivo,10000,ascendente,30,390.744,49995000,0,0,9999,113375,09fa4b3,SI
+Shell Sort,10000,descendente,1,1.9636,172578,0,124592,0,114346,09fa4b3,SI
+Selection Sort recursivo,10000,descendente,1,397.197,49995000,5000,0,9999,114346,09fa4b3,SI
+Shell Sort,10000,descendente,2,1.9633,172578,0,124592,0,114347,09fa4b3,SI
+Selection Sort recursivo,10000,descendente,2,394.463,49995000,5000,0,9999,114347,09fa4b3,SI
+Shell Sort,10000,descendente,3,1.9081,172578,0,124592,0,114348,09fa4b3,SI
+Selection Sort recursivo,10000,descendente,3,394.78,49995000,5000,0,9999,114348,09fa4b3,SI
+Shell Sort,10000,descendente,4,2.3612,172578,0,124592,0,114349,09fa4b3,SI
+Selection Sort recursivo,10000,descendente,4,416.754,49995000,5000,0,9999,114349,09fa4b3,SI
+Shell Sort,10000,descendente,5,1.911,172578,0,124592,0,114350,09fa4b3,SI
+Selection Sort recursivo,10000,descendente,5,399.709,49995000,5000,0,9999,114350,09fa4b3,SI
+Shell Sort,10000,descendente,6,1.9147,172578,0,124592,0,114351,09fa4b3,SI
+Selection Sort recursivo,10000,descendente,6,402.122,49995000,5000,0,9999,114351,09fa4b3,SI
+Shell Sort,10000,descendente,7,1.9114,172578,0,124592,0,114352,09fa4b3,SI
+Selection Sort recursivo,10000,descendente,7,397.326,49995000,5000,0,9999,114352,09fa4b3,SI
+Shell Sort,10000,descendente,8,1.9648,172578,0,124592,0,114353,09fa4b3,SI
+Selection Sort recursivo,10000,descendente,8,395.299,49995000,5000,0,9999,114353,09fa4b3,SI
+Shell Sort,10000,descendente,9,1.9788,172578,0,124592,0,114354,09fa4b3,SI
+Selection Sort recursivo,10000,descendente,9,398.373,49995000,5000,0,9999,114354,09fa4b3,SI
+Shell Sort,10000,descendente,10,1.9142,172578,0,124592,0,114355,09fa4b3,SI
+Selection Sort recursivo,10000,descendente,10,395.707,49995000,5000,0,9999,114355,09fa4b3,SI
+Shell Sort,10000,descendente,11,1.933,172578,0,124592,0,114356,09fa4b3,SI
+Selection Sort recursivo,10000,descendente,11,405.077,49995000,5000,0,9999,114356,09fa4b3,SI
+Shell Sort,10000,descendente,12,1.9904,172578,0,124592,0,114357,09fa4b3,SI
+Selection Sort recursivo,10000,descendente,12,405.112,49995000,5000,0,9999,114357,09fa4b3,SI
+Shell Sort,10000,descendente,13,1.9436,172578,0,124592,0,114358,09fa4b3,SI
+Selection Sort recursivo,10000,descendente,13,412.325,49995000,5000,0,9999,114358,09fa4b3,SI
+Shell Sort,10000,descendente,14,1.9263,172578,0,124592,0,114359,09fa4b3,SI
+Selection Sort recursivo,10000,descendente,14,395.099,49995000,5000,0,9999,114359,09fa4b3,SI
+Shell Sort,10000,descendente,15,1.9102,172578,0,124592,0,114360,09fa4b3,SI
+Selection Sort recursivo,10000,descendente,15,414.668,49995000,5000,0,9999,114360,09fa4b3,SI
+Shell Sort,10000,descendente,16,1.9127,172578,0,124592,0,114361,09fa4b3,SI
+Selection Sort recursivo,10000,descendente,16,395.152,49995000,5000,0,9999,114361,09fa4b3,SI
+Shell Sort,10000,descendente,17,1.9637,172578,0,124592,0,114362,09fa4b3,SI
+Selection Sort recursivo,10000,descendente,17,395.725,49995000,5000,0,9999,114362,09fa4b3,SI
+Shell Sort,10000,descendente,18,2.029,172578,0,124592,0,114363,09fa4b3,SI
+Selection Sort recursivo,10000,descendente,18,399.928,49995000,5000,0,9999,114363,09fa4b3,SI
+Shell Sort,10000,descendente,19,1.9362,172578,0,124592,0,114364,09fa4b3,SI
+Selection Sort recursivo,10000,descendente,19,395.779,49995000,5000,0,9999,114364,09fa4b3,SI
+Shell Sort,10000,descendente,20,1.9202,172578,0,124592,0,114365,09fa4b3,SI
+Selection Sort recursivo,10000,descendente,20,402.131,49995000,5000,0,9999,114365,09fa4b3,SI
+Shell Sort,10000,descendente,21,1.9625,172578,0,124592,0,114366,09fa4b3,SI
+Selection Sort recursivo,10000,descendente,21,408.327,49995000,5000,0,9999,114366,09fa4b3,SI
+Shell Sort,10000,descendente,22,1.9755,172578,0,124592,0,114367,09fa4b3,SI
+Selection Sort recursivo,10000,descendente,22,399.1,49995000,5000,0,9999,114367,09fa4b3,SI
+Shell Sort,10000,descendente,23,1.9743,172578,0,124592,0,114368,09fa4b3,SI
+Selection Sort recursivo,10000,descendente,23,404.07,49995000,5000,0,9999,114368,09fa4b3,SI
+Shell Sort,10000,descendente,24,1.9692,172578,0,124592,0,114369,09fa4b3,SI
+Selection Sort recursivo,10000,descendente,24,413.89,49995000,5000,0,9999,114369,09fa4b3,SI
+Shell Sort,10000,descendente,25,1.9237,172578,0,124592,0,114370,09fa4b3,SI
+Selection Sort recursivo,10000,descendente,25,401.31,49995000,5000,0,9999,114370,09fa4b3,SI
+Shell Sort,10000,descendente,26,1.9673,172578,0,124592,0,114371,09fa4b3,SI
+Selection Sort recursivo,10000,descendente,26,398.426,49995000,5000,0,9999,114371,09fa4b3,SI
+Shell Sort,10000,descendente,27,1.9507,172578,0,124592,0,114372,09fa4b3,SI
+Selection Sort recursivo,10000,descendente,27,398.654,49995000,5000,0,9999,114372,09fa4b3,SI
+Shell Sort,10000,descendente,28,1.9684,172578,0,124592,0,114373,09fa4b3,SI
+Selection Sort recursivo,10000,descendente,28,396.767,49995000,5000,0,9999,114373,09fa4b3,SI
+Shell Sort,10000,descendente,29,1.9134,172578,0,124592,0,114374,09fa4b3,SI
+Selection Sort recursivo,10000,descendente,29,401.691,49995000,5000,0,9999,114374,09fa4b3,SI
+Shell Sort,10000,descendente,30,1.9183,172578,0,124592,0,114375,09fa4b3,SI
+Selection Sort recursivo,10000,descendente,30,429.937,49995000,5000,0,9999,114375,09fa4b3,SI
+Shell Sort,100000,aleatorio,1,59.7513,4175097,0,3487049,0,212346,09fa4b3,SI
+Shell Sort,100000,aleatorio,2,64.1208,4124217,0,3437271,0,212347,09fa4b3,SI
+Shell Sort,100000,aleatorio,3,61.8812,4334900,0,3650585,0,212348,09fa4b3,SI
+Shell Sort,100000,aleatorio,4,59.6736,4190090,0,3503032,0,212349,09fa4b3,SI
+Shell Sort,100000,aleatorio,5,59.2528,4266114,0,3581101,0,212350,09fa4b3,SI
+Shell Sort,100000,aleatorio,6,61.7499,4362378,0,3677508,0,212351,09fa4b3,SI
+Shell Sort,100000,aleatorio,7,61.1356,4295783,0,3609725,0,212352,09fa4b3,SI
+Shell Sort,100000,aleatorio,8,62.9253,4172895,0,3485499,0,212353,09fa4b3,SI
+Shell Sort,100000,aleatorio,9,63.8353,4401910,0,3719581,0,212354,09fa4b3,SI
+Shell Sort,100000,aleatorio,10,60.3836,4286092,0,3603021,0,212355,09fa4b3,SI
+Shell Sort,100000,aleatorio,11,59.9232,4229764,0,3543085,0,212356,09fa4b3,SI
+Shell Sort,100000,aleatorio,12,60.2269,4124834,0,3437491,0,212357,09fa4b3,SI
+Shell Sort,100000,aleatorio,13,60.6123,4190773,0,3505794,0,212358,09fa4b3,SI
+Shell Sort,100000,aleatorio,14,62.4877,4404621,0,3722361,0,212359,09fa4b3,SI
+Shell Sort,100000,aleatorio,15,63.9516,4149389,0,3462346,0,212360,09fa4b3,SI
+Shell Sort,100000,aleatorio,16,64.379,4379188,0,3694749,0,212361,09fa4b3,SI
+Shell Sort,100000,aleatorio,17,64.6829,4206804,0,3518066,0,212362,09fa4b3,SI
+Shell Sort,100000,aleatorio,18,63.5281,4153303,0,3463997,0,212363,09fa4b3,SI
+Shell Sort,100000,aleatorio,19,61.633,4356517,0,3672747,0,212364,09fa4b3,SI
+Shell Sort,100000,aleatorio,20,63.0616,4091810,0,3401669,0,212365,09fa4b3,SI
+Shell Sort,100000,aleatorio,21,58.8371,4021425,0,3331142,0,212366,09fa4b3,SI
+Shell Sort,100000,aleatorio,22,64.1006,4184636,0,3498157,0,212367,09fa4b3,SI
+Shell Sort,100000,aleatorio,23,64.9184,4238513,0,3550711,0,212368,09fa4b3,SI
+Shell Sort,100000,aleatorio,24,60.8199,4289473,0,3604822,0,212369,09fa4b3,SI
+Shell Sort,100000,aleatorio,25,67.1029,4337971,0,3652703,0,212370,09fa4b3,SI
+Shell Sort,100000,aleatorio,26,61.0421,4212779,0,3526655,0,212371,09fa4b3,SI
+Shell Sort,100000,aleatorio,27,60.0475,4218060,0,3532128,0,212372,09fa4b3,SI
+Shell Sort,100000,aleatorio,28,61.1544,4168398,0,3478715,0,212373,09fa4b3,SI
+Shell Sort,100000,aleatorio,29,57.7693,4050867,0,3360285,0,212374,09fa4b3,SI
+Shell Sort,100000,aleatorio,30,61.9312,4381233,0,3696876,0,212375,09fa4b3,SI
+Shell Sort,100000,ascendente,1,12.4955,1500006,0,0,0,213346,09fa4b3,SI
+Shell Sort,100000,ascendente,2,12.5672,1500006,0,0,0,213347,09fa4b3,SI
+Shell Sort,100000,ascendente,3,12.4908,1500006,0,0,0,213348,09fa4b3,SI
+Shell Sort,100000,ascendente,4,12.5985,1500006,0,0,0,213349,09fa4b3,SI
+Shell Sort,100000,ascendente,5,12.62,1500006,0,0,0,213350,09fa4b3,SI
+Shell Sort,100000,ascendente,6,13.3182,1500006,0,0,0,213351,09fa4b3,SI
+Shell Sort,100000,ascendente,7,13.5755,1500006,0,0,0,213352,09fa4b3,SI
+Shell Sort,100000,ascendente,8,13.2782,1500006,0,0,0,213353,09fa4b3,SI
+Shell Sort,100000,ascendente,9,12.7012,1500006,0,0,0,213354,09fa4b3,SI
+Shell Sort,100000,ascendente,10,14.9739,1500006,0,0,0,213355,09fa4b3,SI
+Shell Sort,100000,ascendente,11,14.4818,1500006,0,0,0,213356,09fa4b3,SI
+Shell Sort,100000,ascendente,12,12.8474,1500006,0,0,0,213357,09fa4b3,SI
+Shell Sort,100000,ascendente,13,12.9527,1500006,0,0,0,213358,09fa4b3,SI
+Shell Sort,100000,ascendente,14,13.4881,1500006,0,0,0,213359,09fa4b3,SI
+Shell Sort,100000,ascendente,15,12.8446,1500006,0,0,0,213360,09fa4b3,SI
+Shell Sort,100000,ascendente,16,12.6149,1500006,0,0,0,213361,09fa4b3,SI
+Shell Sort,100000,ascendente,17,15.8854,1500006,0,0,0,213362,09fa4b3,SI
+Shell Sort,100000,ascendente,18,13.4399,1500006,0,0,0,213363,09fa4b3,SI
+Shell Sort,100000,ascendente,19,13.1882,1500006,0,0,0,213364,09fa4b3,SI
+Shell Sort,100000,ascendente,20,13.18,1500006,0,0,0,213365,09fa4b3,SI
+Shell Sort,100000,ascendente,21,14.5402,1500006,0,0,0,213366,09fa4b3,SI
+Shell Sort,100000,ascendente,22,13.4775,1500006,0,0,0,213367,09fa4b3,SI
+Shell Sort,100000,ascendente,23,15.6299,1500006,0,0,0,213368,09fa4b3,SI
+Shell Sort,100000,ascendente,24,13.5925,1500006,0,0,0,213369,09fa4b3,SI
+Shell Sort,100000,ascendente,25,13.1206,1500006,0,0,0,213370,09fa4b3,SI
+Shell Sort,100000,ascendente,26,14.8364,1500006,0,0,0,213371,09fa4b3,SI
+Shell Sort,100000,ascendente,27,13.2302,1500006,0,0,0,213372,09fa4b3,SI
+Shell Sort,100000,ascendente,28,12.7334,1500006,0,0,0,213373,09fa4b3,SI
+Shell Sort,100000,ascendente,29,12.6828,1500006,0,0,0,213374,09fa4b3,SI
+Shell Sort,100000,ascendente,30,12.7866,1500006,0,0,0,213375,09fa4b3,SI
+Shell Sort,100000,descendente,1,26.9888,2244585,0,1655808,0,214346,09fa4b3,SI
+Shell Sort,100000,descendente,2,39.7108,2244585,0,1655808,0,214347,09fa4b3,SI
+Shell Sort,100000,descendente,3,51.6819,2244585,0,1655808,0,214348,09fa4b3,SI
+Shell Sort,100000,descendente,4,25.5043,2244585,0,1655808,0,214349,09fa4b3,SI
+Shell Sort,100000,descendente,5,24.9943,2244585,0,1655808,0,214350,09fa4b3,SI
+Shell Sort,100000,descendente,6,24.7724,2244585,0,1655808,0,214351,09fa4b3,SI
+Shell Sort,100000,descendente,7,26.2723,2244585,0,1655808,0,214352,09fa4b3,SI
+Shell Sort,100000,descendente,8,30.8611,2244585,0,1655808,0,214353,09fa4b3,SI
+Shell Sort,100000,descendente,9,25.5033,2244585,0,1655808,0,214354,09fa4b3,SI
+Shell Sort,100000,descendente,10,30.3117,2244585,0,1655808,0,214355,09fa4b3,SI
+Shell Sort,100000,descendente,11,25.2653,2244585,0,1655808,0,214356,09fa4b3,SI
+Shell Sort,100000,descendente,12,24.9584,2244585,0,1655808,0,214357,09fa4b3,SI
+Shell Sort,100000,descendente,13,25.5057,2244585,0,1655808,0,214358,09fa4b3,SI
+Shell Sort,100000,descendente,14,24.9607,2244585,0,1655808,0,214359,09fa4b3,SI
+Shell Sort,100000,descendente,15,24.3779,2244585,0,1655808,0,214360,09fa4b3,SI
+Shell Sort,100000,descendente,16,25.1898,2244585,0,1655808,0,214361,09fa4b3,SI
+Shell Sort,100000,descendente,17,25.1974,2244585,0,1655808,0,214362,09fa4b3,SI
+Shell Sort,100000,descendente,18,25.0493,2244585,0,1655808,0,214363,09fa4b3,SI
+Shell Sort,100000,descendente,19,25.201,2244585,0,1655808,0,214364,09fa4b3,SI
+Shell Sort,100000,descendente,20,25.5686,2244585,0,1655808,0,214365,09fa4b3,SI
+Shell Sort,100000,descendente,21,25.7903,2244585,0,1655808,0,214366,09fa4b3,SI
+Shell Sort,100000,descendente,22,29.6117,2244585,0,1655808,0,214367,09fa4b3,SI
+Shell Sort,100000,descendente,23,24.6327,2244585,0,1655808,0,214368,09fa4b3,SI
+Shell Sort,100000,descendente,24,25.2436,2244585,0,1655808,0,214369,09fa4b3,SI
+Shell Sort,100000,descendente,25,29.5679,2244585,0,1655808,0,214370,09fa4b3,SI
+Shell Sort,100000,descendente,26,24.7012,2244585,0,1655808,0,214371,09fa4b3,SI
+Shell Sort,100000,descendente,27,24.2283,2244585,0,1655808,0,214372,09fa4b3,SI
+Shell Sort,100000,descendente,28,24.4065,2244585,0,1655808,0,214373,09fa4b3,SI
+Shell Sort,100000,descendente,29,27.6327,2244585,0,1655808,0,214374,09fa4b3,SI
+Shell Sort,100000,descendente,30,27.8526,2244585,0,1655808,0,214375,09fa4b3,SI
